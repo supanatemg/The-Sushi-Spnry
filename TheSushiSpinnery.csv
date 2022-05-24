@@ -1,0 +1,2750 @@
+@title,Thai
+@language,TH-TH
+@scale,auto
+@appli,58 - Do not change
+@version,2.26 - Do not change
+@author,Nintechguy
+#00000,Edomae
+#00001,?????????????
+#00002,????????????????
+#00003,?????????
+#00004,???????????????
+#00005,??????? ??????
+#00006,???????
+#00007,?????????
+#00008,??????????????????????????
+#00009,????????
+#00010,?????????????????????????????
+#00011,???? ??????
+#00012,????
+#00013,???????????????????????????
+#00014,????? ???????
+#00015,?????
+#00016,?????????????????????????????????????????
+#00017,????? ??????
+#00018,?????
+#00019,?????????????????????
+#00020,???????? ?????
+#00021,????????
+#00022,??????????????? ??..???????
+#00023,???? ???????
+#00024,????
+#00025,?????????????????????????????????
+#00026,???????? ??????
+#00027,????????
+#00028,??????????????? ???????????????
+#00029,?????? ??????
+#00030,??????
+#00031,?????????????????????????????
+#00032,?????? ??????
+#00033,??????
+#00034,?????????????????????????????????
+#00035,?????? ??
+#00036,??????
+#00037,????????????????????????????
+#00038,?????? ????????
+#00039,??????
+#00040,"?????????????????, ???????????"
+#00041,???????? ?????????
+#00042,????????
+#00043,???????????????????????????????????????????
+#00044,????? ?????
+#00045,?????
+#00046,????????????????????????????
+#00047,???????? ??????????
+#00048,????????
+#00049,?????????????????
+#00050,???? ????????
+#00051,????
+#00052,???......????????????????????
+#00053,????? ???????
+#00054,?????
+#00055,??????????????????????????????
+#00056,???????? ?????
+#00057,????????
+#00058,?????????????????????? ? ??????
+#00059,?????? ?????
+#00060,??????
+#00061,???????????????????????????
+#00062,????????????
+#00063,????
+#00064,????????????.....???????????
+#00065,?????????????????
+#00066,??????????
+#00067,????????????
+#00068,???????????
+#00069,?????????
+#00070,???????
+#00071,???????!!!
+#00072,???????????????
+#00073,??????????
+#00074,????????????
+#00075,????????
+#00076,??????
+#00077,?????????
+#00078,???????????????
+#00079,??????????????
+#00080,????????
+#00081,???????????
+#00082,??????????
+#00083,????????
+#00084,????????????
+#00085,?????????
+#00086,?????????????
+#00087,???????
+#00088,?????????????
+#00089,???????
+#00090,????????????
+#00091,???????
+#00092,???????????
+#00093,?????????
+#00094,????????????
+#00095,?????????????
+#00096,????????
+#00097,??????
+#00098,?????????????
+#00099,?????????????????
+#00100,?????????????
+#00101,??????????????
+#00102,?????????????
+#00103,???????????????
+#00104,????
+#00105,??????
+#00106,?????????
+#00107,???????
+#00108,?????????
+#00109,?????????????
+#00110,?????
+#00111,???????
+#00112,??????????
+#00113,???????????
+#00114,??????????????
+#00115,?????????
+#00116,????????????
+#00117,???????????
+#00118,????????
+#00119,?????????
+#00120,??????????
+#00121,??????
+#00122,????
+#00123,???????????
+#00124,??????
+#00125,??????
+#00126,???????
+#00127,??????
+#00128,????????
+#00129,?????
+#00130,???????
+#00131,??????
+#00132,????????
+#00133,??????
+#00134,????
+#00135,???????????????
+#00136,????????
+#00137,???????????
+#00138,??????? ????????
+#00139,?????? ??????
+#00140,????? ?????????
+#00141,?????? ???????
+#00142,??????? ????
+#00143,????? ??????
+#00144,????? ????????
+#00145,?????????
+#00146,????????
+#00147,??????
+#00148,???????? ?
+#00149,?????????????
+#00150,???????????
+#00151,???????????????
+#00152,????????????
+#00153,??????? 1
+#00154,"=MID(#00153,1,-1)&'2'"
+#00155,???
+#00156,???
+#00157,??????
+#00158,???????
+#00159,?????????
+#00160,Napolitain Head
+#00161,???????????? ?
+#00162,???????????? ?
+#00163,?????????
+#00164,??????
+#00165,???????????? ???????????????????<co=dd0806>.
+#00166,?????????????
+#00167,????????????????????
+#00168,???????????
+#00169,"Elegant, with floating dishes."
+#00170,??????????????
+#00171,???????????????????????????????????????
+#00172,???????????????????
+#00173,??????????????????????????????????????
+#00174,???????
+#00175,Save up to <co=3366ff>15 plates</co> of leftovers. Can be placed anywhere.
+#00176,?????????
+#00177,??????????????????????????????????????? ?
+#00178,????????
+#00179,??????????????????????????
+#00180,?????????
+#00181,"????????????????????. ??????? <co=3366ff>Sushi Coins</co>, ????????????????????????."
+#00182,???????
+#00183,??????????????????????
+#00184,???????????????????
+#00185,?????????????????????
+#00186,????????????
+#00187,?????????????????????????????????????????????????????????
+#00188,????????????
+#00189,????????????????????????. ???????????????? <co=3366ff>?????????</co>?????.
+#00190,???????????
+#00191,?????????????????????????????? ??????????????????????
+#00192,Ikebana Corner
+#00193,?????????????. ?????????????????????????????????????.
+#00194,???????
+#00195,????????????????????????. ??????????????????????????????????
+#00196,?????
+#00197,???????????????????????. ????????????????????? <co=3366ff>?????????</co>????????.
+#00198,????????
+#00199,????????????? ? ????????????. ????????????????????? <co=3366ff>?????????????</co>.
+#00200,??????????
+#00201,???????????????????????????
+#00202,?????????????
+#00203,??????????? ???????????????????????????????
+#00204,???????
+#00205,Challenge the champ. Doing it a lot increases the <co=3366ff>appetite</co>.
+#00206,Photo Booth
+#00207,Take a photo to remember your visit. May get <co=3366ff>Sushi Coins</co>.
+#00208,Treadmill
+#00209,Run off all that sushi you just ate. Increases the <co=3366ff>appetite</co>.
+#00210,Plate Spinning
+#00211,Customers can try their hand at plate spinning. Increases the <co=3366ff>appetite</co>.
+#00212,Sumo Ring
+#00213,Customers can practice sumo technique. Increases the <co=3366ff>appetite</co>.
+#00214,Takeout Corner
+#00215,Sells lunches for people to take home. Convenient for customers.
+#00216,People who run out of money can get more here.
+#00217,Leafy Plant
+#00218,Fresh and verdant. Makes its surroundings more attractive.
+#00219,Bamboo Fence
+#00220,A Japanese-style fence. Makes its surroundings more attractive.
+#00221,Roses
+#00222,Popular with women. Makes its surroundings more attractive.
+#00223,Lantern
+#00224,A Japanese-style lantern. Makes its surroundings more attractive.
+#00225,Palm Tree
+#00226,Evokes tropical feelings. Makes its surroundings more attractive.
+#00227,Bamboo
+#00228,Grows nice and tall. Makes its surroundings more attractive.
+#00229,Fir Tree
+#00230,Decorated in December. Makes its surroundings more attractive.
+#00231,Bonsai
+#00232,Changes with the season. Makes its surroundings more attractive.
+#00233,Lucky Cat
+#00234,A cute cat statue. Said to attract customers.
+#00235,Daruma
+#00236,Wobbles but never falls over. Makes its surroundings more attractive.
+#00237,Lucky Kairobot
+#00238,Emits an enigmatic light that is sure to attract customers.
+#00239,Treasure Ship
+#00240,Features 7 lucky deities. Makes its surroundings more attractive.
+#00241,Aquarium
+#00242,Home to a variety of fish. Makes its surroundings more attractive.
+#00243,trees
+#00244,Neighborhood Contest
+#00245,"Evita,Simply Miso"
+#00246,"Hello there. I represent a nearby shopping mall.|After seeing <name>'s performance in the rankings, we thought of a proposal for you!|We're going to hold a sushi competition at our mall to help promote our local businesses.|We'd love to have you participate. Winning would be great publicity for your restaurant."
+#00247,Congratulations on your win. You're a true professional.|The local greengrocer was so happy with the results that he asked me to give this to you.
+#00248,A contest sponsored by local businesses.
+#00249,Municipal Contest
+#00250,"Mega Hamburger,Fried Evita"
+#00251,"Nice to meet you. I was told there was a good sushi restaurant here, so I decided to stop by.|I'm working on negotiations to merge several of the small towns in the area, but the talks are going nowhere.|So naturally I decided to sponsor a sushi competition! It'll be just the thing to bring us together.|Given your experience, we'd love to have you enter."
+#00252,Congratulations! This contest really brought us together. I think the merger will go through smoothly.|Please accept this with my thanks.
+#00253,A contest sponsored by several towns.
+#00254,Prefectural Contest
+#00255,"Anaconda SP,Salted Rice Ball"
+#00256,Hello. I'm the governor of a neighboring prefecture.|I wanted to thank you for your help solving that town merger problem a while back.|The citizens of my prefecture have told me that they would love to have you come to our area.|So we've decided to hold a contest of our own. We'd be honored if you would participate.
+#00257,"Congratulations on your win. I know the citizens of my prefecture enjoyed the contest immensely.|Though it isn't much, please accept this token of my thanks."
+#00258,A contest held at the prefectural hall.
+#00259,Kanto Contest
+#00260,"Squid Army,Clementine"
+#00261,"Hello. I'm from the Kanto Sushi Association.|We're going to be holding a sushi competition in the Kanto area.|When I heard about your performance in the prefectural contest, I just had to invite you."
+#00262,Congratulations on winning the contest. It looks like you are unmatched in the Kanto area as well.|I'll send along your prize money and an additional prize. Good luck with your next competition.
+#00263,A contest for the Kanto area.
+#00264,Japan Championship
+#00265,"Buddha's Ashes,Salted Rice Ball"
+#00266,Hello. I'm with the National Sushi Association.|Congratulations on winning the Kanto Sushi Contest. I've had my eye on you for some time.|I'd like to invite you to participate in our contest. I'm sure you are more than capable.
+#00267,"Congratulations on winning. I knew you could do it. It was only a matter of time.|In honor of your win, I'd like to offer you some nigirizushi secrets, penned by a certain master."
+#00268,A contest to decide the best in Japan.
+#00269,International Contest
+#00270,"Totem Pole,Mars Maki"
+#00271,"Hello. I represent the Napolitain Group.|I've long been interested in this ""sushi"" of yours...|I kept hearing the name ""<name>,"" and you're apparently the best in the country now.|Actually, my group has decided to sponsor a contest to determine the best sushi in the world!|Would you do us the honor of participating? I'll be awaiting your decision."
+#00272,That was beautiful! I'm speechless...|You're now the best in the world. I'll issue a press release to newspapers worldwide.|Please accept this gift from our group in honor of your achievement.
+#00273,A contest to decide the world champion.
+#00274,Kairo Cup
+#00275,"24-Shrimp Salute,Negi Madness"
+#00276,"Greetings. My name is Chimpan Z, and I've been traveling the world eating sushi for 60 years.|I represent the people of a small island and have come here to taste the sushi that I've heard so much about.|But simply eating isn't enough... So I've decided to sponsor a sushi competition!|It would be an honor indeed to have the great <name> participate.|Please give it some thought. I'll just nibble on this banana while I'm waiting."
+#00277,"Very impressive! <name> really deserves the title ""best in the world.""|Still, there are always further challenges. I wish you luck in your future endeavors.|Oh, by the way, please accept this small gift with my congratulations."
+#00278,=#00273
+#00279,School Contest
+#00280,"Yakiniku,Wasabi Squared"
+#00281,"Hi. I'm student body president at the local middle school.|We're concerned that students today aren't eating enough fish, so we're sponsoring a sushi contest.|We'd love to have you in it. Sushi that kids like would be great. Something with meat, maybe?"
+#00282,Congrats on your win. We wrote a big story about it in the school newspaper.|I'm sure the kids at my school will realize how great fish is now.|Please accept this gift from the school's gardening club with my thanks.
+#00283,Judged by <co=3366ff>children</co>.
+#00284,Company Contest
+#00285,"Tall Cool One,Triple Takuan"
+#00286,"Hi there. I work at a nearby company.|This is a bit abrupt, but our chairman has decided to sponsor a sushi competition.|We'd be honored if you would take part. I hear there will be some fabulous prizes for the winners."
+#00287,"Congratulations. Our chairman seems satisfied, so we can finally get back to work.|Ah, here's the fabulous prize I promised."
+#00288,Judged by <co=3366ff>young people</co>.
+#00289,Birthday Contest
+#00290,"Nasubi,Saucy Rice"
+#00291,"Hello. It's a pleasure to meet you. I'm the father of a small girl...|Sushi is all she talks about lately.|I've been thinking we should host a sushi contest at our house for her birthday.|I heard that you won a sushi competition sponsored by a certain company, so...|I'd love for you to take part in our contest. Please think it over."
+#00292,"Congrats on your win! This was an awesome birthday party. Thank you!|Here, take this. It's my favorite!"
+#00293,A contest at a birthday party.
+#00294,Sugamo Contest
+#00295,"Say ""Anko"",Air Nigiri"
+#00296,Hello. I'm the head of the Sugamo neighborhood association.|We're collaborating with city hall on a sushi competition to attract tourists.|We'd love to have you participate. Just keep in mind that the judges will consist largely of senior citizens.
+#00297,"Congratulations. Thanks to you, our town is bustling with new visitors.|I'd like to offer you this Go board with my thanks. It's been in my family for generations."
+#00298,Judged by <co=3366ff>senior citizens</co>.
+#00299,Makizushi Prelims
+#00300,"Mars Maki,Triple Kanpyo"
+#00301,"Hello. I represent the Makizushi Association.|For many years, we have sponsored a contest just for makizushi chefs.|I heard that <name> now has three stars, and I knew I had to ask you to take part.|It might help you discover a side of makizushi you never knew existed."
+#00302,"Congratulations. You did splendidly.|Let me teach you our association's secret makizushi technique, passed down for generations."
+#00303,Qualifier for a <co=3366ff>makizushi-only</co> contest.
+#00304,Makizuki Contest
+#00305,"Hello again. Thank you for participating in our contest the other day.|As you may have realized, that was merely a qualifying round.|You've now earned the right to enter the main event. Just let me know when you're ready!|But I warn you... The competition will be even fiercer than last time. Good luck!"
+#00306,Congratulations! The title of makizushi champion is yours!|Please take this ingredient as a special prize. Use it to make the ultimate makizushi!
+#00307,A <co=3366ff>makizushi-only</co> contest.
+#00308,Mermaid Contest
+#00309,"Just Pudding,Hand Grenade"
+#00310,"Hello. I'm the editor of Mermaid Magazine.|For a feature story, we're planning to sponsor a contest to find the kind of sushi that women like best.|We'd love you to take part. Of course, you'll want to choose a type of sushi that women might like."
+#00311,"Congratulations. I'm sure our story will be just great.|Please use the prize money for whatever you like. Oh, and please take this secondary prize as well."
+#00312,Judged by <co=0066cc>women</co>.
+#00313,Showbiz Contest
+#00314,"Legendary Melon,Shiso Lemon"
+#00315,"Hi there. The name's Matsumoto. I'm a TV producer.|I read that article in Mermaid Magazine about your win in the sushi competition! Congrats!|I'm thinking about producing a TV special where female pop stars judge a sushi competition.|I simply must have you take part. I'll be one of the judges myself, so I'm really looking forward to it."
+#00316,"Congrats! Our ratings for the show were through the roof! The head of the station is thrilled!|As thanks, allow me to share some info we've uncovered about talented sushi chefs."
+#00317,A contest featuring pop idols.
+#00318,Nigirizushi
+#00319,Nigiri
+#00320,A traditional style of sushi. Enjoy the flavor and texture of the ingredients.
+#00321,Made from sushi rice lightly squeezed together by hand and then topped with a main ingredient such as raw fish.
+#00322,Gunkan-maki
+#00323,Gunkan
+#00324,Holds toppings that fall apart easily and cannot be used in other types of sushi.
+#00325,Known as a warship roll due to its ship-like profile. Made from a ball of rice horizontally wrapped with nori seaweed. The space created above the rice is then filled with ingredients.
+#00326,Makizushi
+#00327,Maki
+#00328,"Sushi wrapped in nori. Rich in color and taste, these tend to be highly profitable."
+#00329,Rolled sushi made by wrapping nori seaweed and a layer of rice around one or more sushi ingredients.
+#00330,Drinks
+#00331,=#00330
+#00332,Desserts
+#00333,=#00332
+#00334,ATM Lease
+#00335,0&<po=m>You can now build a <co=3366ff><0></co>!
+#00336,0&<po=m>You got <1> <co=3366ff><0>(s)</co>!
+#00337,0&You used the hammer to expand your restaurant!
+#00338,0&<po=m>Congratulations on winning the <co=0066cc><0><co=0000d4>!
+#00339,0&The story was carried by all the media outlets. Now we have lots of people coming to see us!
+#00340,0&<po=m>We received <co=3366ff><0></co> in prize money from the Sushi Council!
+#00341,0&Our ad is bringing in more customers!
+#00342,0&<po=m>Your chef's max level rose from <0> to <co=3366ff><1></co>!
+#00343,0&You can now hire two more chefs!
+#00344,"0&<po=m>It's now <co=3366ff>summer vacation</co>! The restaurant business is booming, bringing more customers!"
+#00345,"0&<po=m>It's now <co=3366ff>Golden Week</co>! The restaurant business is booming, bringing more customers!"
+#00346,0&<po=m>You can now include one more ingredient on your <co=3366ff>nigirizushi</co>!
+#00347,0&<po=m>You can now include one more ingredient in your <co=3366ff>makizushi</co>!
+#00348,0&<po=m>Your belt has exceeded <co=3366ff>10m</co>! Your restaurant's popularity has risen by <co=3366ff>5</co>!
+#00349,0&<po=m>Seats with quality surpassing <co=3366ff><0></co> are now available!
+#00350,0&Popularity skyrocketed after our restaurant was featured in a magazine!
+#00351,0&<po=m>You can now <co=3366ff>move your restaurant's amenities</co>!
+#00352,0&<po=m>You now have another <co=3366ff>special </co>slot!
+#00353,0&<po=m>Part-time worker prep skill rose to <co=3366ff><0></co>!
+#00354,0&<po=m>Hammers obtained: <co=3366ff><0>
+#00355,0&<po=m>Sushi Coins obtained: <co=3366ff><0>
+#00356,Tamago
+#00357,Tama
+#00358,"A type of Japanese omelette, made by rolling together several layers of cooked egg in a special rectangular fry pan. Typically flavored with soy sauce, sugar, and other ingredients."
+#00359,Salad
+#00360,=#00359
+#00361,Anko
+#00362,=#00361
+#00363,A bean paste made by boiling and mashing red beans known as azuki and then sweetening it with a generous amount of sugar.
+#00364,Nasubi
+#00365,Nasu
+#00366,=#00365
+#00367,"Japanese eggplant typically stewed in soy sauce, sugar, and other ingredients."
+#00368,Takuan
+#00369,=#00368
+#00370,A popular Japanese pickle made from daikon radish. Typically salty sweet in flavor and yellow in color.
+#00371,Kanpyo
+#00372,=#00371
+#00373,Shavings of a special type of dried gourd that are stewed in a flavorful broth until dark brown.
+#00374,Kyuri
+#00375,=#00374
+#00376,Kappa
+#00377,"Fresh, crunchy cucumber strips just begging to be put in a sushi roll."
+#00378,Corn
+#00379,=#00378
+#00380,Strawberry
+#00381,Berry
+#00382,=#00381
+#00383,Amaebi
+#00384,=#00383
+#00385,=#00383
+#00386,"Fresh, raw shrimp with a creamy texture and a slightly sweet aftertaste."
+#00387,Tempura
+#00388,Ten
+#00389,Hamburger
+#00390,Burger
+#00391,=#00390
+#00392,Hotate
+#00393,=#00392
+#00394,"Fresh, raw scallops that are naturally sweet and tender."
+#00395,Mentaiko
+#00396,Mentai
+#00397,Marinated pollack roe. One of the most popular flavors is prepared with spicy red chili pepper.
+#00398,Kalbi
+#00399,=#00398
+#00400,Thin slices of tender beef rib that have been marinated in a savory Korean sauce and grilled to mouthwatering perfection.
+#00401,Ika
+#00402,=#00401
+#00403,"Fresh, raw squid with a firm texture that requires more chewing than other ingredients to unlock its delectable flavor."
+#00404,Menegi
+#00405,=#00404
+#00406,Fresh and crunchy onion sprouts for souping up any sushi creation.
+#00407,Salmon
+#00408,=#00407
+#00409,Tako
+#00410,=#00409
+#00411,Fresh octopus that is tenderized by pounding it with a peeled daikon radish and then poached to enhance the flavor and slightly soften the chewy texture.
+#00412,Natto
+#00413,=#00412
+#00414,"Soybeans that have been fermented until they turn sticky and stringy. Very high in protein, but the strong smell and stringy texture make it an acquired taste."
+#00415,Akagai
+#00416,=#00415
+#00417,"A type of ark shell clam with a distinctly reddish hue due to its high hemoglobin content. Flavorful and chewy, but soft enough to bite through."
+#00418,Kani
+#00419,=#00418
+#00420,"Fresh, boiled crab with a sweet yet slightly briny flavor."
+#00421,Hamachi
+#00422,Hama
+#00423,"Fresh, raw yellowtail, a fish with pale pink flesh that is rich, flavorful, and deliciously oily."
+#00424,Anago
+#00425,Ana
+#00426,"Sea eel simmered to mouthwatering perfection and brushed with a reduction of sea eel broth blended with soy sauce, rice wine, and sugar."
+#00427,Awabi
+#00428,Awa
+#00429,"Fresh, raw abalone, a shellfish with a crunchy texture and a strong aroma reminiscent of the sea. A prized delicacy in many Asian countries."
+#00430,Maguro
+#00431,Tuna
+#00432,"Fresh, raw tuna, a fish with dark red flesh that is quite flavorful, lean, and firm. A sushi restaurant staple the world over."
+#00433,Umibudo
+#00434,Umi
+#00435,=#00434
+#00436,"A type of seaweed that looks like tiny green grapes, hence its name ""sea grapes."" The little ""grapes"" burst when chewed, releasing a succulent salty hint of the deep blue sea."
+#00437,Katsuo
+#00438,=#00437
+#00439,"Fresh, raw bonito, a fish with a strong aroma and fat content varying between lean in the summer and high in the fall. Often eaten with grated ginger and scallions."
+#00440,Unagi
+#00441,Una
+#00442,"Freshwater eel that is grilled, steamed, and then grilled again while it is basted with a sweet sauce. The flesh is soft and flaky, with a slightly oily and meaty flavor."
+#00443,Negitoro
+#00444,Negi
+#00445,A mouthwatering combination of minced raw bluefin tuna belly and chopped green onions.
+#00446,Shako
+#00447,=#00446
+#00448,Mantis shrimp that are poached immediately after being caught. Has a fine texture and a flavor deeper than other types of shrimp.
+#00449,Ikura
+#00450,=#00449
+#00451,"Salmon roe that is prepared by separating the individual eggs, then soaking them in soy sauce and sake to eliminate the strong fishiness and improve their texture."
+#00452,Hirame
+#00453,Hira
+#00454,"Raw halibut, a fish with pale flesh renowned for its light, delicate flavor. Prepared fresh, chilled two or so hours in the refrigerator, or infused with kombu extracts."
+#00455,Shirako
+#00456,Shira
+#00457,The milt of male cod. Light in flavor and slippery yet slightly rubbery in texture.
+#00458,Madai
+#00459,Tai
+#00460,"Fresh, raw red sea bream snapper with tender, slightly sweet and fatty flesh."
+#00461,Uni
+#00462,=#00461
+#00463,"Gonad of the sea urchin, a major delicacy in Japan when eaten raw. Orange or yellow in color, with a strong sea aroma, rich taste, and creamy texture."
+#00464,Engawa
+#00465,En
+#00466,"Dorsal fin muscle of fluke or halibut. Served raw. Soft yet chewy, with a higher fat content and more concentrated flavor than the rest of the fish."
+#00467,Kamatoro
+#00468,Kama
+#00469,Toro
+#00470,Flesh around the collarbone of bluefin tuna. Melts in your mouth when served raw. High in fat and more concentrated in flavor than the more common belly section.
+#00471,Matsutake
+#00472,Matsu
+#00473,A mushroom prized for its deliciously distinct aroma and unique flavor. Commands a high price because it grows only in the wild and is hard to find even there.
+#00474,Caviar
+#00475,=#00474
+#00476,Fugu
+#00477,=#00476
+#00478,"Fresh, raw blowfish, a deadly dish when improperly prepared due to its powerful neurotoxin. Its flesh, cut wafer thin, has a subtle yet tasty flavor and a slightly chewy texture."
+#00479,Tsume
+#00480,=#00479
+#00481,=#00479
+#00482,"Fresh, succulent crab claw meat bursting with a sweet yet slightly briny flavor."
+#00483,Pudding
+#00484,Pud
+#00485,Melon
+#00486,=#00485
+#00487,=#00485
+#00488,Cake
+#00489,=#00488
+#00490,=#00488
+#00491,Parfait
+#00492,=#00491
+#00493,Orange Juice
+#00494,OJ
+#00495,Ginger Ale
+#00496,Fruit Gelatin
+#00497,Rock Salt
+#00498,Salt
+#00499,=#00498
+#00500,Shichimi
+#00501,"A blend of seven Japanese spices, commonly red chili pepper, ground Sichuan pepper, dried yuzu peel, black sesame seeds, white sesame seeds, ground ginger, and seaweed."
+#00502,Kizaminori
+#00503,Nori
+#00504,=#00503
+#00505,Thinly cut strips of nori seaweed made by shredding harvested seaweed and rack drying it in a papermaking-like process. Has a crisp texture and tastes faintly of the sea.
+#00506,Mayonnaise
+#00507,Mayo
+#00508,Sweet Sauce
+#00509,Sauce
+#00510,=#00509
+#00511,Miso
+#00512,=#00511
+#00513,Daikon Oroshi
+#00514,Daikon
+#00515,=#00514
+#00516,"Grated daikon radish. Cool and tasty, but at times rather spicy if vigorously grated. Makes a great all around condiment that also aids digestion."
+#00517,Momiji Oroshi
+#00518,Momiji
+#00519,=#00518
+#00520,Grated daikon radish with dried chili pepper. Offers a spicier alternative to the traditional daikon oroshi.
+#00521,Neriume
+#00522,Ume
+#00523,"A tart, salty paste made from pickled plums."
+#00524,Shiso
+#00525,=#00524
+#00526,"A Japanese herb reminiscent of mint and basil, but with a unique, tasty flavor all its own."
+#00527,Asatsuki
+#00528,Asa
+#00529,"Known as chives in English, the green part of the plant is used finely chopped and sprinkled on bonito and other stronger flavored fish. Also aids digestion."
+#00530,=#00444
+#00531,=#00444
+#00532,Green onions for adding a little extra flavor to any sushi creation.
+#00533,Wasabi
+#00534,=#00533
+#00535,Lemon
+#00536,=#00535
+#00537,Avocado
+#00538,=#00537
+#00539,Cheese
+#00540,=#00539
+#00541,Yaki Cheese
+#00542,Yaki
+#00543,=#00541
+#00544,Cheese that has been grilled to a crispy brown goodness. Adds unexpected flavor to any sushi creation.
+#00545,Ginger
+#00546,=#00545
+#00547,=#00545
+#00548,Onion
+#00549,=#00548
+#00550,Tobiko
+#00551,=#00550
+#00552,"Flying fish roe separated from its casings and salted for a few hours. Has a tougher membrane than salmon roe. Pops in your mouth, releasing a clear, slightly salty flavor."
+#00553,Kinpaku
+#00554,Kin
+#00555,Golden
+#00556,Edible gold leaf that adds an entirely new level to the concept of sushi extravagance.
+#00557,Green Tea
+#00558,=#00219
+#00559,Boosts appeal nearby.
+#00560,=#00225
+#00561,Gives a tropical feel.
+#00562,=#00188
+#00563,Build <co=0066cc>pinball machines</co>.
+#00564,=#00200
+#00565,Build <co=3366ff>toy counters.
+#00566,=#00182
+#00567,Build a <co=3366ff>new entrance.
+#00568,=#00221
+#00569,Display beautiful <co=0066cc>roses</co>.
+#00570,=#00223
+#00571,=#00559
+#00572,=#00227
+#00573,Place an elegant <co=0066cc>mini-garden</co>.
+#00574,=#00229
+#00575,Place a big <co=0066cc>fir tree</co>.
+#00576,=#00231
+#00577,An artisan's masterpiece.
+#00578,=#00233
+#00579,Boosts sales. Probably.
+#00580,=#00235
+#00581,Lucky item that attracts customers.
+#00582,=#00239
+#00583,Lucky item that boosts sales.
+#00584,=#00241
+#00585,Emphasizes freshness.
+#00586,Grizzly Hammer
+#00587,<co=3366ff>Removes 1 section of forest</co> to expand your restaurant.
+#00588,Quality Seed
+#00589,Boosts ingredient/amenity quality.
+#00590,Price Seed
+#00591,Boosts ingredient/amenity price.
+#00592,Flavor Powder
+#00593,Boosts <co=3366ff>flavor</co>.
+#00594,Aroma Powder
+#00595,Boosts <co=3366ff>aroma</co>.
+#00596,Texture Powder
+#00597,Improves <co=3366ff>texture</co>.
+#00598,Color Powder
+#00599,Improves<co=3366ff> color</co>.
+#00600,Mega Powder
+#00601,Boosts all attributes.
+#00602,Max Powder
+#00603,Amenity Gem
+#00604,Powers up amenities.
+#00605,Salt Water
+#00606,Powers up raw ingredients.
+#00607,Sashimi Knife
+#00608,Powers up sashimi ingredients.
+#00609,Powdered Tea
+#00610,Effective on <co=3366ff>seats</co> and <co=3366ff>vending machines.
+#00611,Gourmet Oil
+#00612,Powers up ingredients.
+#00613,Gas Burner
+#00614,Powers up ingredients with fire.
+#00615,Frying Pan
+#00616,Powers up ingredients with heat.
+#00617,Soy Sauce
+#00618,Powers up shellfish.
+#00619,Shine-X
+#00620,Polishes up amenities.
+#00621,Pestle
+#00622,Crushes ingredients to power them up.
+#00623,Stock Pot
+#00624,Boils ingredients to power them up.
+#00625,Steam Pot
+#00626,Powers up ingredients with steam.
+#00627,In this game you are the owner of a revolving sushi restaurant. Arrange the restaurant's layout and refine your menu to become the best sushi restaurant in Japan.
+,▼Game Flow<br>Improve the quality of your sushi and install various amenities to make fans of your customers. Aim for high rankings and win sushi competitions.
+,"▼Seats<br>Seats are automatically created when you place or expand a conveyor belt. Having decor items nearby increases their quality, encouraging customers to stay longer and eat more."
+,▼Customers 1<br>Customers are attracted by menu specials and store amenities. They may increase their appetites by using amenities near their seats. Compatibility and preferences vary with each type of customer.
+,"▼Customers 2<br>Customers with bigger appetites tend to eat more, and those with higher expectations are harder to please. Increase fans to discover new clientele and ingredients."
+,"▼Sushi 1<br>In addition to standard dishes, you can combine ingredients you acquire into all new offerings. Ingredients double in price when in season."
+,"▼Sushi 2<br>The better your sushi tastes, the more satisfied customers will be. Using highly compatible ingredients may also boost prices. Dishes that require more labor take longer to make."
+,▼Seasonal Sushi<br>Ingredients are best enjoyed and make the best sushi while in season. Ingredients and sushi currently in season are marked with a fish icon.
+,▼Developing New Dishes<br>You can develop new dishes by combining ingredients in new ways. The skill of your chef and the number of Sushi Coins invested in ingredient hunts are key to your success.
+,"▼Ingredients<br>The higher an ingredient's rank the tastier it tends to be, but highly ranked ingredients tend to be harder to find, requiring a chef with a particularly discerning eye."
+,▼Dishes and Ingredients<br>Using an item on a sushi dish will simultaneously power up other dishes containing the same ingredients. Highly compatible items will boost power significantly.
+,"▼Chefs<br>Assigning a chef to a prep station boosts the appeal of surrounding seats. You can send chefs off for training to hone their skills from the ""Consult"" menu."
+,▼Chef Attributes 1<br>■<co=0066cc>Energy</co>: Chefs rest when out of energy.<br>■<co=0066cc>Prep</co>: Higher skill means faster food preparation and the ability to incorporate a wider selection of ingredients into new dishes.
+,▼Chef Attributes 2<br>■<co=0066cc>Discernment</co>: Makes it easier to find good ingredients when inventing new dishes.<br>■<co=0066cc>Service</co>: Makes surrounding seats more appealing.
+,▼Restaurant Popularity<br>Offering a variety of in-store amenities will boost your popularity and attract more customers. Where you place them is also important.
+,▼Item Effects<br>An item's power-up effects vary by dish or amenity. Using an item on an amenity will affect all amenities of the same type.
+,▼Contests<br>You can enter your best dishes in a variety of competitions. Doing so can win you prize money and Sushi Coins.
+,"▼Contest Tips<br>Judging standards vary with each contest. Submitting entries that meet those standards can result in high scores. Compatibility with the judges is also important, so creating new dishes is vital."
+,"▼National Sushi Rankings<br>Every 6 months, sushi restaurants are rated on features such as food and service. The explanations accompanying each score can reveal the key to higher scores in the future."
+,"▼Game Hints<br>Placing user-friendly amenities near seats is effective. Also, try to build several test kitchens to develop hit dishes that can win competitions."
+,"▼Ending<br>The game ""ends"" at the end of March of the 16th year. Your funds and points will be calculated, and you can register them in Highscore. You can then continue to play as long as you like."
+,"▼Other<br>Some of your parameters can be carried over into a new game after the game's ""ending."" You may even be able to hire a special secret character..."
+,(About this game)
+#00628,"   Welcome to the first issue of the Daily Haddock, your source for the freshest fish-related news and views.<br>   And now for our first story. After long preparation, the restaurant <co=3366ff><name></co> has opened its doors at last. Neighborhood locals are flocking eagerly to the new revolving sushi restaurant, where they appear to be enjoying the freshest of ingredients.<br>   We'll keep you informed in future issues of the progress of this new entrant into the high-stakes world of revolving sushi."
+#00629,"   Good news for owners of revolving sushi restaurants! Legendary sushi magnate Tabero Jusan (age 82) has agreed to share some secrets of his success.<br>   ""Customers will pay a lot of money for the kind of sushi they like best. In particular, kids like <co=3366ff>tamago</co> and senior citizens like <co=3366ff>anko</co>! Of course it goes without saying that it has to taste good, too.""<br>   There you have it. Perhaps your restaurant should try offering these items as specials?"
+#00630,   Word has it that <name> is boasting a new <0>. A local college student who had heard about it on TV remarked that he may stop in to see the <0> on his way home from work.<br>   It seems that adding new amenities is key to attracting new customers.
+#00631,"   A recent industry survey revealed that some customers will visit a restaurant just to use its amenities, then leave without eating anything.<br>   Usage of amenities like vending machines can yield Sushi Coins, so businesses interested in making it big should consider installing several.<br>   Some amenities can also whet the appetite, so placing them in strategic locations is vital."
+#00632,"   We've learned that <name> has just welcomed its 50th customer. In an exclusive interview, that customer had this to say:<br>   ""Thank you. I'm just happy that I could be here on such a special day. I plan to eat a lot!""<br>   We suspect that this is only the beginning of a large and loyal customer base for <name>!"
+#00633,"   Do you know what it means when your seats change? We asked a professional interior designer.<br>   ""When you place decor items near seats, it can trigger a spontaneous upgrade. Good seats encourage customers to sit longer and eat more,"" said the expert while munching on some salmon.<br>   Interior design is an important point to keep in mind if you want to create a popular restaurant."
+#00634,"   Today we bring you the results of a study conducted by our editorial staff entitled, ""How to make people eat more sushi.""<br>   Offering novel dishes in addition to old stand-bys tends to attract more customers, so developing new dishes is important.<br>   What's more, each customer's appetite can be stimulated by certain amenities. Other amenities can aid in digestion.<br>   Taking advantage of these tips should put you on the fast track to success in no time."
+#00635,"   <name> has a new dish on the menu: <co=0066cc><0></co>! <1>, the first customer to try it, had this to say about it:<br>   ""It has a mellow, full-bodied flavor but isn't overpowering. It seemed to put me in a mellow mood, too...""<br>   We've heard that developing dishes tends to go well when using ingredients that are in season. We can't wait to see what <name> has in store for us next."
+#00636,"   According to our sources, <name>'s conveyor belt has reached a total length of 20m. The longer the belt, the more seats can be accommodated and the more food can be made available at once--meaning more satisfied customers.<br>   One customer put it well: ""The feeling of anticipation you get from seeing a favorite dish approaching from a distance is the best part of revolving sushi bars!"""
+#00637,"   <name>'s conveyor belt has now reached a total length of 40m. The restaurant's interior looks like a regular sushi museum, with locals proudly proclaiming it a town landmark.<br>   <name> is particularly popular with children, who often request birthday parties there."
+#00638,"   Making delicious sushi requires not only skillful preparation but also a discerning eye, according to Goro Higashidama, a veteran chef of 30 years.<br>   ""The secret to creating new dishes is to develop your chefs' discernment so they can choose the best ingredients. If that ingredient happens to be in season, the selection process should go even better,"" he said.<br>   This advice is well worth keeping in mind on your next visit to the fish market."
+#00639,"   We've just learned that <name> has won its first sushi competition.<br>   One judge commented, ""The other entrants weren't bad, but I felt they just didn't put enough love into their sushi.""<br>   This victory has raised the restaurant's name recognition, perhaps winning them some new customers as well."
+#00640,"   Our sources inform us that <name> has received a third star in the National Sushi Rankings.<br>   ""They just get better every time,"" said the chairman of the Sushi Council. ""But they'll need to work at developing new dishes in the future. I just might drop in myself if they come up with something good.""<br>   How high will they score next time? We can't wait to find out."
+#00641,"   We've just learned that <name> has received a fifth star in the National Sushi Rankings.<br>   Though some within the industry expressed surprise, one anonymous commenter felt it was only natural, adding, ""I own a sushi bar myself, but I eat at <name> regularly!""<br>   The news has turned heads in the blogosphere and the travel industry, amongst others, and we can safely say that the restaurant is now a household name. Congratulations!"
+#00642,"   Today we asked legendary sushi chef Tatsuo Sakuramoto to share some of his secrets to winning competitions.<br>   ""Preparing food that meets a contest's standards is key. If high flavor and aroma are called for, choose ingredients with high flavor and aroma,"" he said.<br>   ""Finding good ingredients is vital. Use a chef with keen discernment and don't be afraid to use a lot of <co=3366ff>Sushi Coins</co>."""
+#00643,"   Today we asked a management consultant how to best obtain <co=0066cc>Sushi Coins</co>.<br>   ""One of my clients once used a conveyor belt that was too long, putting too much distance between seats and amenities,"" he said. ""Customers tend to use amenities near their seats, so placing them in easily accessible locations is a good way to increase <co=0066cc>Sushi Coins</co>.""<br>   Sakabe Sushi apparently began winning contests regularly after following this advice. Placing amenities near seats can lead to impressive growth, it seems."
+#00644,"   Word has it that <name> is having orders cancelled. A source who wished to remain anonymous said, ""Their food is great, but orders take forever to arrive, so I end up cancelling.""<br>   Building more prep stations and assigning chefs highly skilled at food preparation would likely resolve this issue."
+#00645,Training Trip
+#00646,I'll accompany your chef on a training trip to improve his or her skills.
+#00647,"Okay, I'm off for <co=3366ff><0>'s</co> training. Expect good results!"
+#00648,I just got back. <co=3366ff><0></co> completed training without incident.
+#00649,Help Wanted Sign
+#00650,"Use ""Help Wanted"" signs to recruit chefs."
+#00651,"We'll try putting up some ""help wanted"" signs. You'll have to wait a bit to see what happens."
+#00652,Hello. We tried recruiting new chefs and got <co=3366ff><0></co> applicants.
+#00653,Want Ad
+#00654,Advertise for chefs in a magazine.
+#00655,We'll try using a want ad. You'll have to wait a bit to see what happens.
+#00656,TV Commercial
+#00657,Recruit chefs using a TV commercial.
+#00658,"Congratulations on getting your third star!|Now that we've made a bit of a name for ourselves, why don't we try advertising for a chef on TV?|I'm sure we'll be able to find someone good. I'll add this to the list of proposals."
+#00659,We'll try a TV commercial. You'll have to wait a bit to see what happens.
+#00660,Headhunting
+#00661,Try to poach promising chefs from other restaurants.
+#00662,"I couldn't help overhearing that! You're talking about <co=3366ff>headhunting</co>, right?|I'll go ahead and add this to your list of proposals. Just give me the word and I'll start looking."
+#00663,I'll go locate some chefs. You'll have to wait a bit to see what happens.
+#00664,Hello. We tried headhunting chefs and got <co=3366ff><0></co> prospects.
+#00665,Magazine Ad
+#00666,Place an ad in a magazine to attract customers.
+#00667,"Okay, I'll submit the rough draft to the magazine. You'll have to wait a bit to see what happens."
+#00668,Hello. The magazine with our ad in it came out today.
+#00669,Find Trainer
+#00670,Look for an advanced trainer to raise maximum skill levels.
+#00671,"Your chefs have become quite accomplished.|To hone their skills even further, perhaps it's time to look for new places to train?"
+#00672,I'll set out immediately. Please wait a bit.
+#00673,I just got back. I've found a new location for training.
+#00674,Prep Manual
+#00675,Create a prep manual for part-time workers to improve their prep skill.
+#00676,"Okay, I'll get started on the manual right away. I hope you'll be happy with the results."
+#00677,Hello. I finally finished the manual you requested!
+#00678,Prep Manual II
+#00679,Prep Manual III
+#00680,If I Had a Hammer...
+#00681,Travel all of Japan in search of a hammer artisan.
+#00682,"Hello. Are you satisfied with the size of your restaurant?|Have you heard that there's a special hammer that can increase the size of your restaurant in no time flat?|If you can find the person who makes them, I'll be able to stock them at my store. Would you mind looking?"
+#00683,"How do you do? I am Grizzly Bearington. I heard about you from Pumpkin Jones.|As a token of goodwill, I'd like to offer a complimentary hammer. Use it well."
+#00684,Entrance Architect
+#00685,Sign a contract with an architect specializing in entrances.
+#00686,"Business is going well. In fact, I think you should look into adding another entrance.|I've heard there's a contractor nearby who specializes in that very thing..."
+#00687,I just got back. We signed the contract with no problems!
+#00688,Management Skill
+#00689,Receive training from an instructor to increase the max number of chefs.
+#00690,"Hello. I enjoy your food so much that I thought I would share some info with you.|If you're interested, I can introduce you to someone who can teach you how to manage more chefs at once."
+#00691,"I just got back! The class ended with no problems!|I wrote down what I learned in these notes, so here you go."
+#00692,Playmaker Skill
+#00693,Receive training from a coach to increase the max number of chefs.
+#00694,Hi. I've got some interesting info for you today.|Our coach is very skilled at giving instructions. You might find it worthwhile to ask him for tips.|I bet it would allow you to manage more chefs at once.
+#00695,I just got back. I learned a lot.|I wrote down what I learned in these notes. They're yours.
+#00696,Expand Break Room
+#00697,Expand the break room to increase capacity for more chefs.
+#00698,"Hmm, don't you think it's about time that you increased your staff?|Building a break room would allow you to hire more chefs.|First we'd need to find a contractor who can take on the job, of course."
+#00699,I just got back. The break room is now finished!
+#00700,=#00334
+#00701,Visit a bank and sign a contract to lease an ATM.
+#00702,Add Special Slot
+#00703,Look for a sign maker to increase the number of specials you can offer.
+#00704,Your menu has certainly grown recently. Perhaps it's time to add another slot for specials?|All you'd have to do is make a new sign.
+#00705,I just got back. I had the sign made without any problems!
+#00706,PR: Zoo
+#00707,Promote your restaurant at the zoo.
+#00708,"The sushi here is always so tasty.|You know, there's a zoo nearby. Have you thought of advertising there?"
+#00709,"I just got back. The PR activities went well, and I was able to open up a new customer segment!"
+#00710,PR: School
+#00711,Promote your restaurant at an elementary school.
+#00712,Your sushi is amazing. It's like I can taste the chef's entire life experience in each bite...|You have to tell the other kids at my school about it.
+#00713,PR: Park
+#00714,Promote your restaurant at a park's athletic ground.
+#00715,"I come here so often, you might say that I'm an expert on <name>...|Say, my friends often play at the park nearby. Maybe you should try talking to them?"
+#00716,PR: Train Station
+#00717,Promote your restaurant on the platform of a train station.
+#00718,"This sushi rocks, man.|Some ex-bandmates spend a lot of time around the station. Bet you could make fans of them."
+#00719,PR: Music Club
+#00720,Promote your restaurant at a live music club.
+#00721,"I come here so often, it's like a second home to me. By the way...|I hear there's a club nearby. Advertising there could bring in lots of new customers."
+#00722,PR: Stadium
+#00723,Promote your restaurant in the halls of a stadium.
+#00724,"This is so fresh and tasty, I could feel the fatigue of a long flight just vanish into the wild blue yonder.|Say, I met someone on the plane who likes sushi. He's often at the stadium. Maybe you should talk to him?"
+#00725,PR: Offices
+#00726,Promote your restaurant in an area lined with office buildings.
+#00727,PR: Ball Park
+#00728,Pretend to be a spectator and promote your restaurant at a baseball park.
+#00729,"This food is fantastic. I can feel it permeating my entire body.|By the way, I hear some of my old teammates are at the baseball stadium. Maybe you should talk to them."
+#00730,PR: Chanko
+#00731,Promote your restaurant at a chanko-nabe restaurant.
+#00732,I love this food! Some guys who graduated from my school like sushi too.|They're at the chanko restaurant. Maybe you can try talking to them.
+#00733,PR: Airport
+#00734,Promote your restaurant at an airport gate.
+#00735,"I must say I was skeptical, but now that I've tried it I've concluded that your sushi is delicious!|Say, I should tell you about an airport I often use. You could introduce this amazing flavor to more people."
+#00736,PR: City Hall
+#00737,Promote your restaurant at City Hall.
+#00738,"Since tasting your sushi, I've made a bundle on the stock market and even won the lottery!|To thank you, I'd like to introduce you to an old college classmate of mine working at city hall."
+#00739,PR: Thick Forest
+#00740,Promote your restaurant in a thick forest.
+#00741,"Your sushi tastes as superb as always. No matter how many times I eat here I never get tired of it.|By the way, one of my friends went into the woods recently and hasn't come back. Could you try contacting him?"
+#00742,PR: DIY Center
+#00743,Promote your restaurant at a Do-It-Yourself center.
+#00744,Sushi never tastes better than when it's covered by hard-earned taxpayer money.|Let me introduce you to a store I visit regularly. I think you'll like it.
+#00745,PR: Sumo Hall
+#00746,Promote your restaurant at a sumo hall.
+#00747,"This place is the best! I wish some of the senior wrestlers knew about it, too.|They're at the sumo hall. Why don't you try getting in touch with them?"
+#00748,PR: Financial District
+#00749,Promote your restaurant in the financial district.
+#00750,"Whenever I eat your sushi, I can feel my stress melt away.|You know, one of my friends is even more stressed out than I am. Maybe you should tell him about your place?"
+#00751,PR: Lab
+#00752,Sneak into a lab to promote your restaurant.
+#00753,"You've captured the flavor of the fish perfectly. It's just fantastic.|Speaking of fish, let me tell you about a strange building on the other side of the river from the fishing spot."
+#00754,PR: Shonan
+#00755,Promote your restaurant by the sea in Shonan.
+#00756,"Hmm... I'm not sure which is better, your sushi or my rice crackers...|I know! We can have a friend make the call. He should be in Shonan today. Why don't you ask him?"
+#00757,PR: Japanese Restaurant
+#00758,Promote your restaurant at a Japanese restaurant
+#00759,"Delicious. I never thought I could be satisfied with the sushi from a revolving sushi restaurant...|Say, you should talk to our chairman. He's at a Japanese restaurant nearby. Tell him I sent you."
+#00760,PR: Meeting Room
+#00761,Sneak into a company's meeting room to promote your restaurant.
+#00762,I'm completely satisfied. Nobody who can make sushi like this can be a bad person.|Feel free to go to the upper floors of my company.
+#00763,PR: Cracker Shop
+#00764,Promote your restaurant at a rice cracker shop.
+#00765,"Hello. I was just going to the local rice cracker shop, and I decided to stop by here as well.|The shop owner is apparently a big sushi fan. He'd probably become a customer if you told him about this place."
+#00766,PR: Tea Field
+#00767,Promote your restaurant in a tea field.
+#00768,"Your fish is so fresh. I just can't get enough of it.|You know, there's a large tea field near my house. Let me tell you where it is. You could advertise there."
+#00769,PR: Temple
+#00770,Promote your restaurant at Kiyomizu Temple.
+#00771,"This sushi is so amazing, it's changed my mind about revolving sushi restaurants.|Oh, let me tell you about a popular spot in town. It's always full of people."
+#00772,PR: Kairobot
+#00773,Promote your restaurant to new customers.
+#00774,PR: Pet House
+#00775,Promote your restaurant at a pet house.
+#00776,Om nom nom... This sushi is incredible.|Please let me tell you about one of my favorite places.
+#00777,PR: High School
+#00778,Promote your restaurant in front of a high school.
+#00779,"This place is delicious, just like I was told.|My sister's high school is nearby. Why don't you try advertising there?"
+#00780,PR: Library
+#00781,Promote your restaurant at a quiet library.
+#00782,"Nothing beats eating sushi after jamming on the drums all night.|I'd like one of my friends to try your sushi, too. She's at the library if you care to get in touch."
+#00783,PR: Dept. Store
+#00784,Promote your restaurant on the roof of a department store.
+#00785,The color and the preparation are all flawless. And of course it tastes great as well.|Let me introduce you to a store that sells the clothing that I make.
+#00786,PR: Harajuku
+#00787,Promote your restaurant at a major street in Harajuku.
+#00788,It seems like the flavor gets better every time I come here. It's incredible.|Allow me to introduce you to a customer who often shops at my store.
+#00789,PR: Boutique
+#00790,Promote your restaurant using a boutique's showcase.
+#00791,"What a fantastic place. I could stay here all day just drinking tea.|But that wouldn't be fair to you, so allow me to introduce a client of mine."
+#00792,PR: Printing Company
+#00793,Promote your restaurant at a printing company.
+#00794,"Your sushi is so good, I forgot all about returning this library book. Now the library police are after me!|Speaking of which, a friend I met at the library is at a printing company now. Here, I'll show you where."
+#00795,PR: Hospital
+#00796,Promote your restaurant in front of a hospital.
+#00797,PR: English Class
+#00798,Promote your restaurant as part of an English conversation class.
+#00799,"I've been thinking about writing a picture book about sushi. That's how much I love your sushi.|My friend would like some too, so let me tell you where she's secretly hanging out."
+#00800,PR: TV Station
+#00801,Promote your restaurant at a TV station.
+#00802,"This is delicious! And it seems to be great for my voice as well!|Speaking of which, one of my friends is apparently working at the TV station. Here, let me tell you where."
+#00803,PR: Company Reception
+#00804,Promote your restaurant in a company's reception area.
+#00805,"That was fantastic. But it's not much fun for me to eat alone, so why don't you advertise at my company?|Um, be sure to ask at reception first, though."
+#00806,PR: Studio
+#00807,Promote your restaurant at a recording studio.
+#00808,"Sushi this good is hard to come by overseas!|By the way, did you know there's a studio near here?"
+#00809,PR: Talent Agency
+#00810,Promote your restaurant at a talent agency.
+#00811,"Sushi after a workout is the best! I feel ready to take on the World Cup.|Oh, yeah. I'd like to introduce you to someone I met recently. I'll show you the place."
+#00812,PR: Waikiki Beach
+#00813,Promote your restaurant on a beach in Waikiki.
+#00814,"I've eaten a lot of fancy food in my time, but the sushi here ranks among the best.|I can tell you about a place where I did a photo shoot a while back, if you'd like to try advertising there."
+#00815,PR: Faculty Lounge
+#00816,Promote your restaurant in a faculty lounge.
+#00817,Hello. Thanks for all the delicious food. I've taken an interest in fish recently.|I want to introduce my teacher to this place to thank her for all she's done for me. Could you invite her?
+#00818,PR: Concert
+#00819,Promote your restaurant at a concert.
+#00820,"I wish I could write a song to convey how delicious your sushi is to my listeners.|Anyway, I thought I might tell you about a favorite spot of mine."
+#00821,PR: Regional Park
+#00822,Promote your restaurant at a regional park.
+#00823,"That was great! To thank you, let me tell you about one of my favorite spots."
+#00824,PR: Preschool
+#00825,Promote your restaurant at a preschool.
+#00826,"That was delicious. I would love for one of my old teachers to try it, too.|I think she's still working at the preschool, so would you mind inviting her here?"
+#00827,PR: Satellite
+#00828,Use an orbiting satellite to promote your restaurant.
+#00829,"Revolving sushi is fun and delicious. What could be better?|I'd love to tell my friend about it, but... Oh, maybe you could get in touch."
+#00830,I just got back. I wrote the name of the restaurant on a satellite just before it was launched into space.|<po=m>Some <co=0066cc>astronomers</co> got very interested when they saw it!
+#00831,PR: Kyoto
+#00832,Promote your restaurant in the streets of the ancient capital of Kyoto.
+#00833,"So there actually are good revolving sushi places. I'm impressed!|I'd love for my students to know about this, too. Here, let me tell you where they are."
+#00834,PR: Dance Class
+#00835,Become a student in a dance class to promote your restaurant.
+#00836,"This sushi is amazing. I really enjoyed it.|To thank you, let me tell you about a dance school that an old friend of mine runs."
+#00837,PR: Rokumeikan
+#00838,Meet notable figures at the Rokumeikan and promote your restaurant.
+#00839,"I never thought I'd be this satisfied! Hmm... Yes, I don't have any choice now.|I have to tell you where an old friend of mine is. I was so young back then..."
+#00840,PR: Tailor
+#00841,Promote your restaurant at a local tailor's shop.
+#00842,"I love rice crackers, but sushi is very tasty, too. Especially the sushi here.|I'd like to recommend it to an old friend of mine. I think she's at the tailor's, if you'd like to speak with her."
+#00843,=#00166
+#00844,Sign a contract with a builder to add a <co=3366ff>linear motor belt</co>.
+#00845,Hello. I've got a bit of interesting info to share with you.|I've heard of a conveyor belt that uses the same magnetic technology used in linear motor cars.|Perhaps you could get a contractor to make you one?
+#00846,=#00168
+#00847,Sign a contract with a builder to add a <co=3366ff>water lane</co>.
+#00848,Hi. I just thought of something that I had to share with you.|Have you thought of floating sushi on water instead of using a conveyor belt?|I think it would be very elegant. Give it some thought.
+#00849,=#00172
+#00850,Sign a contract with a builder to add a <co=3366ff>Prep Station Pro</co>.
+#00851,=#00178
+#00852,Sign a contract with a builder to add a <co=3366ff>waiting area.
+#00853,=#00190
+#00854,Sign a contract with a builder to add a <co=3366ff>fish reference library.
+#00855,"Hello. I have a favor to ask of you.|I'd like to know more about fish, so I'd like you to build a fish library."
+#00856,=#00204
+#00857,Sign a contract with a builder to add an <co=3366ff>arm wrestling machine</co>.
+#00858,Hi. I've got a great proposition for you.|Why not put an arm wrestling machine modeled after me in your restaurant?|I'm sure a contractor could build one for you. Give it some thought.
+#00859,=#00206
+#00860,Sign a contract with a builder to add a <co=3366ff>photo booth.
+#00861,Hello. I have a suggestion for you.|I'd love to have a souvenir of my visit here. Would you consider installing a photo booth?|I'm sure it would be popular with girls. Think it over.
+#00862,=#00192
+#00863,Sign a contract with a builder to add an <co=3366ff>ikebana corner.
+#00864,Hi. I had a thought about your restaurant.|I think it would be fun if customers could arrange flowers rather than just look at them.|It would add a touch of elegance to your establishment. Please consider it.
+#00865,=#00196
+#00866,Sign a contract with a builder to add a <co=3366ff>fishing hole.
+#00867,"Hello. I went fishing today and caught something huge! It was just an old boot, though. Heh.|Speaking of fishing, I thought it might be nice if customers could fish right here in your restaurant.|Just don't stock any boots, okay?"
+#00868,=#00202
+#00869,Sign a contract with a builder to add a <co=3366ff>petting zoo.
+#00870,"Hello. I really enjoyed my meal today.|By the way, while looking at my pet rabbit the other day, it struck me that it would be nice to have one here.|Having a rabbit nearby is very soothing. Give it some thought."
+#00871,=#00210
+#00872,Sign a contract with a builder to add a <co=3366ff>plate spinning corner.
+#00873,"Hello. Finding new planets is harder than it sounds, isn't it...|By the way, I've heard that some people practice plate spinning in Japan, but I've never been able to see it.|I'd really love to be able to see it, just once..."
+#00874,=#00214
+#00875,Sign a contract with a builder to add a <co=3366ff>takeout corner.
+#00876,"Hello. I have something to ask you.|New Year's is approaching, and my family was thinking about ringing in the new year with some of your sushi.|So I thought I'd ask if you could add a takeout area."
+#00877,=#00221
+#00878,Sign a contract with the general store to purchase <co=0066cc>roses</co>.
+#00879,Hello. Would like some lovely roses?|The general store is selling some nice rose bushes. I think they would really appeal to young ladies.|Would you consider having some in your restaurant?
+#00880,=#00223
+#00881,Sign a contract with the general store to purchase a <co=0066cc>lantern</co>.
+#00882,"Hello. Have you any interest in stone lanterns?|Garden design is a longtime hobby, so I was thrilled to see lanterns for sale at the general store.|Why not place some in your restaurant? They're very elegant."
+#00883,=#00227
+#00884,Sign a contract with the general store to purchase <co=0066cc>bamboo</co>.
+#00885,Good morning. I came to ask a favor of you.|I saw some bamboo at the general store. It looks like it would grow up straight and tall.|I'd love it if you would plant some at your restaurant. Please give it some thought.
+#00886,=#00229
+#00887,Sign a contract with the general store to purchase a <co=0066cc>fir tree</co>.
+#00888,Hello. Are you familiar with fir trees?|They're often used as Christmas trees. The general store just got some in.|I think they'd look great in your restaurant.
+#00889,=#00231
+#00890,Sign a contract with the general store to purchase a <co=0066cc>bonsai tree</co>.
+#00891,Bonsai trees! That's what your restaurant is missing.|Just ask at the general store and I'm sure they can fix you up.
+#00892,=#00233
+#00893,Sign a contract with the general store to purchase a <co=0066cc>lucky cat</co>.
+#00894,"Hello. I'm a bit of a cat aficionado, you know.|I saw that the general store had the cutest lucky cat statue. It would look great in your place..."
+#00895,=#00235
+#00896,Sign a contract with the general store to purchase a <co=0066cc>daruma doll</co>.
+#00897,Hello. I just found something great at the general store.|It's the cutest daruma doll! You should get one for your restaurant!
+#00898,=#00239
+#00899,Sign a contract with the general store to purchase a <co=0066cc>treasure ship</co>.
+#00900,Hello. I bought a model treasure ship as a souvenir from Japan and they loved it back home.|I bought it at the local general store. Maybe displaying one would bring you luck.
+#00901,=#00364
+#00902,Look for a supplier of the sushi ingredient <co=3366ff>nasubi</co>.
+#00903,Hello! I have a bit of a rhythmical request for you today!|<po=m>I'd love to be able to eat <co=3366ff>nasubi</co> sushi. Would you add it to the menu?
+#00904,"Okay, I'll start looking for a vendor right away. You'll have to wait a bit to see what happens."
+#00905,=#00368
+#00906,Look for a supplier of the sushi ingredient <co=3366ff>takuan</co>.
+#00907,Hello. I came to tell you about a dream I've had since childhood.|<po=m>I'd love to be able to eat <co=3366ff>takuan</co> sushi. Would you add it to the menu?
+#00908,=#00380
+#00909,Look for a supplier of the sushi ingredient <co=3366ff>strawberries.
+#00910,Hello. I came to tell you about a dream of mine.|<po=m>I'd love to be able to eat <co=3366ff>strawberry</co> sushi. Would you add it to the menu?
+#00911,Ebiten
+#00912,Look for a supplier of the sushi ingredient <co=3366ff>shrimp tempura</co>.
+#00913,"When I was taking care of the animals, I was struck by an inspiration.|<po=m>I'd love to be able to eat <co=3366ff>ebiten</co> sushi. Would you add it to the menu?"
+#00914,=#00395
+#00915,Look for a supplier of the sushi ingredient <co=3366ff>mentaiko</co>.
+#00916,Hello. I've got a spicy little idea for you today.|<po=m>I'd love to be able to eat <co=3366ff>mentaiko</co> sushi. Would you add it to the menu?
+#00917,=#00398
+#00918,Look for a supplier of the sushi ingredient <co=3366ff>kalbi</co>.
+#00919,Hey there. I came to tell you about a totally rockin' dream of mine.|<po=m>I'd love to be able to eat <co=3366ff>kalbi</co> sushi. Would you add it to the menu?
+#00920,=#00409
+#00921,Look for a supplier of the sushi ingredient <co=3366ff>tako</co>.
+#00922,Hello. I was just betting on a soccer game when an idea came to me.|<po=m>I'd love to be able to eat <co=3366ff>tako</co> sushi. Would you add it to the menu?
+#00923,=#00418
+#00924,Look for a supplier of the sushi ingredient <co=3366ff>kani</co>.
+#00925,Today I brought you an idea that I'm sure little kids would like.|<po=m>I'd love to be able to eat <co=3366ff>kani</co> sushi. Would you add it to the menu?
+#00926,=#00427
+#00927,Look for a supplier of the sushi ingredient <co=3366ff>awabi</co>.
+#00928,Hi. I was struck by sudden inspiration while landing my plane earlier.|<po=m>I'd love to be able to eat <co=3366ff>awabi</co> sushi. Would you add it to the menu?
+#00929,=#00430
+#00930,Look for a supplier of the sushi ingredient <co=3366ff>maguro</co>.
+#00931,Hello. I came to tell you about a request I have.|<po=m>I'd love to be able to eat <co=3366ff>maguro</co> sushi. Would you add it to the menu?
+#00932,=#00440
+#00933,Look for a supplier of the sushi ingredient <co=3366ff>unagi</co>.
+#00934,Hello. I came to tell you about a request I have.|<po=m>I'd love to be able to eat <co=3366ff>unagi</co> sushi. Would you add it to the menu?
+#00935,=#00443
+#00936,Look for a supplier of the sushi ingredient <co=3366ff>negitoro</co>.
+#00937,"Hello. My workplace is rather stressful, so I like to be able to eat whatever I like on my days off.|<po=m>I'd love to be able to eat <co=3366ff>negitoro</co> sushi. Would you add it to the menu?"
+#00938,=#00446
+#00939,Look for a supplier of the sushi ingredient <co=3366ff>shako</co>.
+#00940,"Hello. My tower is almost finished, so I thought I would come and have a bit of an early celebration.|<po=m>I'd love to be able to eat <co=3366ff>shako</co> sushi. Would you add it to the menu?"
+#00941,=#00449
+#00942,Look for a supplier of the sushi ingredient <co=3366ff>ikura</co>.
+#00943,"Hello. My recording session went a bit long, so I'm very hungry.|<po=m>I'd love to be able to eat <co=3366ff>ikura</co> sushi. Would you add it to the menu?"
+#00944,=#00455
+#00945,Look for a supplier of the sushi ingredient <co=3366ff>shirako</co>.
+#00946,Hello. The concert last week went so well that I thought I would treat my staff to something tasty.|<po=m>I'd love to be able to eat <co=3366ff>shirako</co> sushi. Would you add it to the menu?
+#00947,=#00461
+#00948,Look for a supplier of the sushi ingredient <co=3366ff>uni</co>.
+#00949,"Hello. My experiment the other day went very well, so I thought I would treat myself to something nice.|<po=m>I'd love to be able to eat <co=3366ff>uni</co> sushi. Would you add it to the menu?"
+#00950,=#00464
+#00951,Look for a supplier of the sushi ingredient <co=3366ff>engawa</co>.
+#00952,Hi. I was just coming back from a photo shoot when I had the greatest idea.|<po=m>I'd love to be able to eat <co=3366ff>engawa</co> sushi. Would you add it to the menu?
+#00953,=#00467
+#00954,Look for a supplier of the sushi ingredient <co=3366ff>kamatoro</co>.
+#00955,Hello. I had a great idea while I was practicing.|<po=m>I'd love to be able to eat <co=3366ff>kamatoro</co> sushi. Would you add it to the menu?
+#00956,=#00471
+#00957,Look for a supplier of the sushi ingredient <co=3366ff>matsutake</co>.
+#00958,"Hello. I've gotten tired of the usual ingredients, so I thought I'd suggest something a bit extravagant.|<po=m>I'd love to be able to eat <co=3366ff>matsutake</co> sushi. Would you add it to the menu?"
+#00959,=#00474
+#00960,Look for a supplier of the sushi ingredient <co=3366ff>caviar</co>.
+#00961,"Hello. I've traveled all over the world eating all kinds of foods, and this just occurred to me.|<po=m>I'd love to be able to eat <co=3366ff>caviar</co> sushi. Would you add it to the menu?"
+#00962,=#00476
+#00963,Look for a supplier of the sushi ingredient <co=3366ff>fugu</co>.
+#00964,Hello. I came to make a request.|<po=m>I'd love to be able to eat <co=3366ff>fugu</co> sushi. Would you add it to the menu?
+#00965,=#00485
+#00966,Look for a <co=3366ff>melon</co> supplier.
+#00967,"Hi. I had to cancel a gig last week due to a cold. The gifts people sent me gave me an idea, though.|<po=m>I'd love to be able to eat <co=3366ff>melon</co> here. Would you add it to the menu?"
+#00968,=#00488
+#00969,Look for a <co=3366ff>cake</co> supplier.
+#00970,Hello. I think the best way to make children's dreams come true is to treat them to some sweet memories.|<po=m>I'd love to be able to eat some <co=3366ff>cake</co>. Would you add it to the menu?
+#00971,=#00491
+#00972,Look for a <co=3366ff>parfait </co>supplier.
+#00973,Hello. I live in the neighborhood and I have a suggestion about how to help people enjoy their time off...|<po=m>I'd love to be able to eat a <co=3366ff>parfait</co>. Would you add it to the menu?
+#00974,=#00495
+#00975,Look for a <co=3366ff>ginger ale </co>supplier<co=3366ff>.
+#00976,Hi. I came to make a request.|<po=m>I'd love to be able to drink <co=3366ff>ginger ale</co>. Would you add it to the menu?
+#00977,=#00496
+#00978,Look for a <co=3366ff>fruit gelatin </co>supplier.
+#00979,Hello. I was struck by inspiration just as I broke Mach 1.|<po=m>I'd love to be able to eat <co=3366ff>fruit gelatin</co> here. Please add it to the menu.
+#00980,=#00511
+#00981,Look for a supplier of the topping <co=3366ff>miso.
+#00982,Hi. I had the greatest idea when I was visiting a client who runs a Japanese restaurant.|<po=m>I'd love to be able to have sushi with <co=3366ff>miso</co> on it. Could you make some?
+#00983,=#00517
+#00984,Look for a supplier of the topping <co=0066cc>momiji oroshi</co>.
+#00985,Hi. I had a great idea while I was staring at the fall foliage near the library entrance.|<po=m>I'd love to be able to eat <co=3366ff>momiji oroshi </co>on sushi. Could you make some?
+#00986,=#00521
+#00987,Look for a supplier of the topping <co=0066cc>neriume</co>.
+#00988,Hello. I got the best idea when I was staring out at my garden the other day.|<po=m>I'd love to have sushi containing <co=3366ff>neriume</co>. Could you make some?
+#00989,=#00527
+#00990,Look for a supplier of the topping <co=0066cc>asatsuki</co>.
+#00991,Hi. I came to make a request.|<po=m>I'd love to be able to eat sushi with <co=3366ff>asatsuki</co> on it. Could you make some?
+#00992,=#00444
+#00993,Look for a supplier of the topping <co=0066cc>negi</co>.
+#00994,"Hello. When I had a cold earlier, I got a great idea for an elegant kind of sushi.|<po=m>I'd love to be able to eat sushi with <co=3366ff>negi </co>on it. Could you make some?"
+#00995,=#00533
+#00996,Look for a supplier of the topping <co=0066cc>wasabi</co>.
+#00997,Nice to meet you. I've had lots of sushi overseas and I noticed something.|<po=m>Why don't you offer <co=3366ff>wasabi </co>with your sushi? It seems like an obvious choice.
+#00998,=#00541
+#00999,Look for a supplier of the topping <co=0066cc>yaki cheese</co>.
+#01000,Hello. I came to make a request.|<po=m>I'd love to be able to eat sushi with <co=3366ff>yaki cheese</co>. Could you make some?
+#01001,=#00545
+#01002,Look for a supplier of the topping <co=0066cc>ginger</co>.
+#01003,Hello. I had an idea for a new kind of sushi when cutting fabric for clothes the other day.|<po=m>I'd love to be able to eat sushi with <co=3366ff>ginger</co>. Could you make some?
+#01004,=#00548
+#01005,Look for a supplier of the topping <co=0066cc>onion</co>.
+#01006,Hi. I had a great idea for a type of sushi while out driving.|<po=m>I'd love to be able to eat sushi with <co=3366ff>onion</co>. Could you make some?
+#01007,=#00550
+#01008,Look for a supplier of the topping <co=0066cc>tobiko</co>.
+#01009,Hello. A great idea came to me while I was reporting the midday news.|<po=m>I'd love to be able to eat sushi with <co=3366ff>tobiko</co>. Could you make some?
+#01010,Upgrade Market
+#01011,Negotiate with the market's suppliers to increase their selection.
+#01012,I just got back. I was able to sign the contract with the supplier with no problems.
+#01013,My Training
+#01014,Go on a training trip to improve my skills.
+#01015,"Hello. Thanks for everything.|I'd like to undergo some training to help me fulfill your requests.|I wrote up a proposal about it, so please look at it when you get the chance."
+#01016,"Okay, I'll visit the trainer immediately. I'll bring some Sushi Coins along as a gift."
+#01017,"I just got back from training. It wasn't easy, but as a result of a lot of hard work...|<po=m>We can now perform <co=3366ff>two</co> requests at once! I hope it proves useful."
+#01018,My Training II
+#01019,=#01014
+#01020,"I just got back from training. It wasn't easy, but as a result of a lot of hard work...|<po=m>We can now perform <co=3366ff>three</co> requests at once! I hope it proves useful."
+#01021,=#00513
+#01022,Look for a supplier of the topping <co=0066cc>daikon oroshi</co>.
+#01023,Boss! I thought of a new proposal while I was out walking in the fields.|<po=m>How about developing some sushi with <co=3366ff>daikon oroshi</co> on it?
+#01024,=#00539
+#01025,Look for a supplier of the topping <co=0066cc>cheese</co>.
+#01026,"Got a minute, boss? I have a suggestion.|<po=m>Have you thought about putting <co=3366ff>cheese</co> on sushi? I think it would be good."
+#01027,=#00537
+#01028,Look for a supplier of the topping <co=0066cc>avocado</co>.
+#01029,Hello again. I brought you some useful info.|<po=m>I've heard that <co=3366ff>avocado</co> is surprisingly good with sushi. Maybe you can try using it?
+#01030,=#00378
+#01031,Look for a supplier of the sushi ingredient <co=0066cc>corn</co>.
+#01032,Boss! I got a great idea while watching an informational program on TV earlier.|<po=m>Why don't you try developing <co=3366ff>corn</co> sushi?
+#01033,=#00389
+#01034,Look for a supplier of the sushi ingredient <co=0066cc>hamburger</co>.
+#01035,Do you have a second? I've been doing some online research.|<po=m>Why don't you try making <co=3366ff>hamburger</co> sushi? I think it could work.
+#01036,Scallops
+#01037,Look for a supplier of the sushi ingredient <co=0066cc>scallops</co>.
+#01038,Hello again! I stumbled on some great info while surfing the web!|<po=m>The fish market seems to have gotten some <co=3366ff>hotate</co> in. Maybe you can make a deal with them?
+#01039,=#00415
+#01040,Look for a supplier of the sushi ingredient <co=0066cc>akagai</co>.
+#01041,"I'd like to discuss something with you, boss.|<po=m>We've gotten some requests for <co=3366ff>akagai </co>sushi from customers."
+#01042,=#00421
+#01043,Look for a supplier of the sushi ingredient <co=0066cc>hamachi</co>.
+#01044,Hello again. I have some money-saving info for you today.|<po=m>The fish market seems to have gotten some <co=3366ff>hamachi</co> in. Maybe you can make a deal with them?
+#01045,=#00424
+#01046,Look for a supplier of the sushi ingredient <co=0066cc>anago</co>.
+#01047,"There's something I need to discuss with you, boss.|<po=m>We've gotten some requests for <co=3366ff>anago </co>sushi from customers."
+#01048,=#00437
+#01049,Look for a supplier of the sushi ingredient <co=0066cc>katsuo</co>.
+#01050,Hello again. I've got some fresh info for you.|<po=m>The fish market seems to have gotten some <co=3366ff>katsuo</co> in. Maybe you can make a deal with them?
+#01051,=#00452
+#01052,Look for a supplier of the sushi ingredient <co=0066cc>hirame</co>.
+#01053,Hello again. I have some money-saving info for you today.|<po=m>The fish market seems to have gotten some <co=3366ff>hirame</co> in. Maybe you can make a deal with them?
+#01054,=#00458
+#01055,Look for a supplier of the sushi ingredient <co=0066cc>madai</co>.
+#01056,Hello again. I have some money-saving info for you today.|<po=m>The fish market seems to have gotten some <co=3366ff>madai</co> in. Maybe you can make a deal with them?
+#01057,=#00401
+#01058,Look for a supplier of the sushi ingredient <co=0066cc>ika</co>.
+#01059,=#00483
+#01060,Look for a supplier of the sushi ingredient <co=0066cc>pudding</co>.
+#01061,=#00361
+#01062,Look for a supplier of the sushi ingredient <co=0066cc>anko</co>.
+#01063,Boss! I was eating some Japanese sweets when I was hit by an inspiration.|<po=m>Why don't you try putting some <co=3366ff>anko </co>on sushi?
+#01064,=#00407
+#01065,Look for a supplier of the sushi ingredient <co=0066cc>salmon</co>.
+#01066,Boss! I was fishing in the river earlier and an idea struck me.|<po=m>Why don't you try developing <co=3366ff>salmon</co> sushi?
+#01067,National Sushi Rankings
+#01068,=#00356
+#01069,A slice of subtly sweetened egg omelette held atop sushi rice with a thin belt of nori seaweed.
+#01070,=#00364
+#01071,"Sushi rice topped with eggplant stewed in soy sauce, sugar, and other ingredients."
+#01072,=#00383
+#01073,"Sushi rice topped with fresh, raw shrimp praised for its creamy texture and slightly sweet aftertaste."
+#01074,=#00398
+#01075,Sushi rice topped with thin slices of tender beef rib marinated in a savory Korean sauce and grilled to mouthwatering perfection.
+#01076,=#00407
+#01077,=#00401
+#01078,Sushi rice topped with raw squid. Its firm texture requires more chewing than most to unlock its delectable flavor.
+#01079,=#00409
+#01080,Sushi rice topped with fresh octopus that's been tenderized and poached to slightly soften the chewy texture.
+#01081,=#00418
+#01082,"Sushi rice topped with fresh, boiled crab that contains a sweet yet slightly briny flavor."
+#01083,=#00427
+#01084,"Sushi rice topped with raw abalone, a shellfish with a crunchy texture and a strong aroma reminiscent of the sea."
+#01085,=#00430
+#01086,"Sushi rice topped with raw tuna, a fish with dark red flesh that is flavorful, lean, and firm. A sushi restaurant staple the world over."
+#01087,=#00440
+#01088,"Sushi rice topped with grilled freshwater eel basted with a sweet sauce. The flesh is soft and flaky, with a slightly oily and meaty flavor."
+#01089,=#00446
+#01090,Sushi rice topped with poached mantis shrimp known for a fine texture and a flavor deeper than other types of shrimp.
+#01091,=#00464
+#01092,"Sushi rice topped with the dorsal fin muscle of fluke or halibut. Soft yet chewy, with a higher fat content and more concentrated flavor than the rest of the fish."
+#01093,=#00467
+#01094,Sushi rice topped with flesh from around the collarbone of bluefin tuna. High in fat and more concentrated in flavor than the more common belly section.
+#01095,=#00471
+#01096,Sushi rice topped with rare and highly prized matsutake mushrooms.
+#01097,=#00476
+#01098,"Sush rice topped with raw blowfish, deadly when improperly prepared due to its powerful neurotoxin. Its flesh, cut wafer thin, has a subtle yet tasty flavor and a slightly chewy texture."
+#01099,Ohagi
+#01100,An autumn treat typically made by packing sweet red bean paste around a ball of sweet rice.
+#01101,Takuan Maki
+#01102,Nori seaweed and sushi rice rolled around pickled daikon radish known as takuan.
+#01103,Ebiten Maki
+#01104,Nori seaweed and sushi rice rolled around a piece of shrimp tempura.
+#01105,Salad Gunkan
+#01106,A ball of rice horizontally wrapped with nori seaweed and crowned with minced vegetables mixed with mayonnaise.
+#01107,Strawberry Gunkan
+#01108,A ball of rice horizontally wrapped with nori seaweed and crowned with strawberries.
+#01109,=#00474
+#01110,Negitoro Gunkan
+#01111,A ball of rice horizontally wrapped with nori seaweed and crowned with minced raw bluefin tuna belly mixed with chopped green onions.
+#01112,Ikura Gunkan
+#01113,A ball of rice horizontally wrapped with nori seaweed and crowned with salmon roe.
+#01114,=#00455
+#01115,Sushi rice topped with the milt of male cod. Light in flavor and slippery yet slightly rubbery in texture.
+#01116,=#00461
+#01117,"Sushi rice topped with raw gonad of the sea urchin. Orange or yellow in color, with a strong sea aroma, rich taste, and creamy texture."
+#01118,Kyuri Gunkan
+#01119,A ball of rice horizontally wrapped with nori seaweed and crowned with cucumber slices.
+#01120,Kanpyo Maki
+#01121,Nori seaweed and sushi rice rolled around stewed gourd shavings known as kanpyo.
+#01122,=#00404
+#01123,A bundle of green onion sprouts held atop sushi rice by a thin loop of nori seaweed.
+#01124,Corn Gunkan
+#01125,A ball of rice horizontally wrapped with nori seaweed and crowned with corn kernels mixed with mayonnaise.
+#01126,=#00389
+#01127,=#00392
+#01128,"Sushi rice topped with fresh, raw scallops that are naturally sweet and tender."
+#01129,=#00415
+#01130,"Sushi rice topped with raw red ark shell clam. Flavorful and chewy, but soft enough to bite through."
+#01131,Natto Gunkan
+#01132,A ball of rice horizontally wrapped with nori seaweed and crowned with fermented soybeans known as natto.
+#01133,=#00421
+#01134,"Sushi rice topped with raw yellowtail, a fish with pale pink flesh that is rich, flavorful, and deliciously oily."
+#01135,=#00424
+#01136,"Sushi rice topped with sea eel simmered to mouthwatering perfection and brushed with a reduction of sea eel broth blended with soy sauce, rice wine, and sugar."
+#01137,=#00437
+#01138,"Sushi rice topped with raw bonito, a fish with a strong aroma and fat content varying between lean in the summer and high in the fall."
+#01139,Umibudo Gunkan
+#01140,"A ball of rice horizontally wrapped with nori seaweed and crowned with a type of seaweed known as sea grapes, or umibudo in Japanese."
+#01141,=#00452
+#01142,"Sushi rice topped with raw halibut. Commonly eaten early in the meal so that its light, delicate flavor can be fully savored."
+#01143,=#00458
+#01144,"Sushi rice topped with raw red sea bream snapper. Its flesh is tender, fatty, and slightly sweet."
+#01145,=#00483
+#01146,=#00485
+#01147,=#00488
+#01148,=#00491
+#01149,=#00493
+#01150,=#00495
+#01151,=#00496
+#01152,Confirm
+#01153,Quit
+#01154,Back
+#01155,Yes
+#01156,No
+#01157,Check
+#01158,Save
+#01159,Menu
+#01160,Complete
+#01161,Site
+#01162,Hint
+#01163,Order
+#01164,Remove
+#01165,Rename
+#01166,Details
+#01167,Guide
+#01168,Reverse
+#01169,Cancel
+#01170,Rotate
+#01171,Start
+#01172,Switch
+#01173,Delete
+#01174,Dismiss
+#01175,Options
+#01176,Track
+#01177,=#00289
+#01178,=#00313
+#01179,=#00308
+#01180,=#00294
+#01181,Good morning!
+,I'll be your assistant. I'll do whatever I can to help.
+,"Though we're small now, we can become the best sushi restaurant in Japan if we expand our offerings!"
+,"If you ever have any questions, try selecting ""Tutorial"" from the ""System"" menu."
+,"First, let's expand our conveyor belts and add more seats! Select ""Build"" from the menu."
+#01182,"It's the end of March, year <1>, and that means this chapter of the story is over. Well done!"
+,Your Clear Points will now be calculated.
+#01183,You have <1> total Clear Points.
+,Congratulations! You beat your high score.
+,Try to get an even better score next time!
+#01184,You have <1> total Clear Points.
+,"Unfortunately, you didn't beat your high score."
+,Try to get a better score next time!
+#01185,Your high score won't change from this point on.
+,But you can keep playing for as long as you like! Have fun!
+#01186,"Select ""<co=3366ff>Conveyor Belt</co>"" from the ""Environment"" menu."
+#01187,"Tap the place you want to start building, then drag to expand the conveyor belt."
+,Seats will be created automatically. Consider how you want the restaurant to be laid out as you build.
+#01188,Food made at <co=3366ff>prep stations</co> will be distributed around the restaurant via the conveyor belt.
+,"You can rotate the prep stations, so orient them to best suit the shape of the conveyor belt."
+#01189,"We got a Takeout Corner! Boxed lunches will be made each morning, based on what's currently available on the menu."
+,Arranging a highly profitable menu will also boost the profitability of these boxed lunches.
+#01190,Looks like I'm your first customer. Can't wait to see what kind of sushi comes down that conveyor belt!
+#01191,It looks like you're running low on funds...
+,I saved a little money when I was working on my family's oyster farm. You're welcome to it.
+,"But this is all I have, so please be careful with your money from now on!"
+#01192,I'll work my fingers to the bone for <0>!
+#01193,Yes! Being able to work at <name> is like a dream come true!
+#01194,"I'm still young and inexperienced, but I'll do my best!"
+#01195,I see... I knew this day would come sooner or later.
+,I'll try to find work at another sushi restaurant and start rebuilding my shattered life! Goodbye.
+#01196,What! Me?!
+,"I guess results are all that count in this business, huh? Well, thanks for all you've done for me..."
+#01197,"B-But I was planning on working here for years! Let me know if you change your mind, okay? Well, bye..."
+#01198,N-No... The days I spent at <co=3366ff><name></co> were some of the happiest of my life.
+,"I think I'll try my luck at a different sort of job, but perhaps we'll meet again someday."
+#01199,"The staff roster is full. To hire <co=3366ff><0></co>, we'll have to dismiss one of our other employees..."
+,Who do you want to dismiss?
+#01200,Would you like to hire anyone else?
+#01201,Select ingredients for the sushi.
+#01202,"Finally, choose which chef will be in charge of developing this dish."
+#01203,Leave it to me! I'll make this the best sushi you've ever had!
+#01204,Understood. I'll do my best!
+#01205,You don't have any chefs who can develop new kinds of sushi...
+#01206,We're already working on a new dish. It's <0>% complete.
+#01207,Boss! Apparently our new sushi is ready. Let's give it a try!
+#01208,"First, choose the type of sushi to develop. The ingredients available vary with the shape chosen."
+#01209,"Next, choose the main ingredient."
+#01210,You'll need at least one test kitchen to develop new kinds of sushi.
+,"Select ""Build"" from the menu, then build a test kitchen."
+#01211,The test kitchen isn't complete yet. You'll have to wait a bit longer.
+#01212,The <0> is finished. You can add more ingredients to make it even tastier!
+,Just remember: you can't add anything that is too advanced for your chef's prep skill.
+#01213,Would you like to save the recipe we developed this time?
+#01214,"A new dish is complete! To give it priority on the conveyor belt, select it as a special."
+#01215,Your recipe box is full. You'll have to get rid of something.
+#01216,Here you can select PR policy for the restaurant.
+,Advertising helps to draw in customers living in the area.
+#01217,This customer has yet to visit our restaurant.
+,Raising our profile in this region may pique their interest.
+#01218,We'll start an advertising campaign in <co=0066cc><0></co>. It should attract more <co=0066cc><1></co>.
+#01219,<co=0066cc><0></co> research is now <co=0066cc><1>%</co> complete.
+#01220,Select the sushi you want to use as a base.
+#01221,Greetings! I'm from the local market.
+,The secret to making great sushi is combining great ingredients!
+,"We offer a wide variety of useful items, so stop by when you get a chance. Bye!"
+#01222,"We can now go to the market! Just select ""<co=0066cc>Buy</co>"" from the menu."
+,"The items available will change with the season, so check back every once in a while."
+#01223,Welcome! We have a fine selection available.
+#01224,Thank you. Please come again.
+#01225,Thank you. Would you like anything else? We stock only the best of the best!
+#01226,Uh-oh! It looks like we're completely sold out! I'm afraid we're done for the day.
+#01227,"You're now going to develop a new dish. First, choose the sushi you want to use as a base."
+#01228,"Next, choose an ingredient that you want to add."
+#01229,Here you can use items to draw out the hidden power of your ingredients.
+,Using compatible items can power up ingredients tremendously. Try experimenting!
+#01230,Select an item. Using a compatible one can power up an ingredient tremendously.
+#01231,Congratulations! You got a hammer!
+,With it you can clear away trees surrounding the restaurant and expand the premises.
+,"To remove forest areas, select ""Remove"" from the ""<co=3366ff>Build</co>"" menu."
+#01232,Select the sushi you want to enter in the <co=3366ff><0></co>.
+#01233,You don't have any kinds of sushi that meet the requirements of the contest.
+#01234,We've entered the <co=3366ff><0></co>. It will be held <1>.
+#01235,Boss! The <co=3366ff><0></co> is being held today!
+,Let's ask <co=3366ff><1></co> to prepare the sushi at the venue.
+#01236,Boss! The <co=3366ff><0></co> is being held today!
+,"But it looks like we don't have any chefs who can prepare our entry, so we'll have to drop out. Too bad."
+#01237,"I was so nervous, I ate four bowls of rice this morning! I'll do my best!"
+#01238,"Sounds promising. Well, it's almost time, so we had better go."
+#01239,So close... I'll bet with practice we can win next time!
+#01240,<co=0066cc><0></co> is pretty tasty... I think I'm a fan!
+#01241,Nice! That customer was so satisfied with our food that we have a new fan!
+,"Tastier food is more likely to satisfy customers, but their preferences make a difference, too."
+#01242,The latest National Sushi Rankings have just been announced. Let's see how we did!
+#01243,We got <co=3366ff><0></co>! Congratulations!
+,They even wrote an article about us. That's sure to attract new customers.
+#01244,"By the way, the Sushi Council sent us a package."
+#01245,"Finally, select the chef you want to prepare the new dish, and the development process will begin."
+#01246,"We now have the base for our prototype. But to make it even tastier, let's try adding another ingredient!"
+#01247,The prototype is now finished. Let's start the taste testing and see how it does.
+#01248,Almost there. I'm looking forward to seeing how this one turns out!
+#01249,The prototype is almost complete. We just have to finish it off.
+,"Depending on the compatibility of the ingredients, you may get a bonus."
+#01250,We're currently in the middle of <co=3366ff><0></co>. We will need about <co=3366ff><1></co> until it is done.
+#01251,"Oh, dear. You have no chefs. Why not put the word out that you're hiring?"
+#01252,Who do you want to send out for training? Just remember that they won't be back for a while.
+#01253,The chef is currently away for training and can't develop new dishes.
+#01254,I overheard. I'll add it to your <co=3366ff>proposals</co>.
+#01255,"Well, well. I go out for a stroll and find the nicest little restaurant."
+,"Ah, I forgot to introduce myself. The name's Pumpkin Jones II. I'm a management consultant."
+,"A lot goes into running a restaurant: purchasing, advertising, and hiring to name a few."
+,"With my extensive connections, I'm sure you'll find my services helpful."
+#01256,"So you've met the consultant. You can talk to him anytime by selecting ""<co=3366ff>Consult</co>"" from the menu."
+#01257,"Welcome! Oh, there's something I forgot to mention earlier."
+,"To make new connections or train staff, <co=0066cc>Sushi Coins</co> are needed to facilitate the negotiations."
+,You can get Sushi Coins when customers use the cash registers or amenities at your restaurant.
+,Now let's get started. I currently have<co=3366ff> <0> </co>proposals for <name>.
+#01258,"Welcome, welcome. How are you? What can I do for you today?"
+#01259,Thank you. I hope to see you again soon.
+#01260,Here you can select up to two specials.
+,"Your chefs will give them priority, so try to balance profitability and customer satisfaction."
+#01261,Hello. I'm from the National Sushi Council.
+,We aim to promote sushi worldwide and improve technology in the industry.
+,"To that end, we inspect sushi restaurants nationwide and rank them every six months."
+,We've now registered <name> in our books. I'm sure you will do well.
+,The next rankings will be announced next month. Good luck.
+#01262,Hello. Thanks for all of your hard work.
+,"I'm afraid you didn't get a star this time, but you did get a very respectable score all the same."
+#01263,Hello. Thanks for all of your hard work.
+,I'm happy to say that you've won your first star! I knew I was right about you!
+,I've brought you a special award. I hope it proves useful.
+#01264,"In addition to food, you are rated on your amenities, the quality of your seats, and your service."
+,"You can try maximizing your score by using <co=0066cc>items</co> or <co=0066cc>decor</co>. Well, see you later."
+#01265,Recently I've noticed a lot of customers leaving early because they've run out of cash.
+,Maybe we should talk to the bank about having an ATM installed!
+#01266,Our customer finished eating and paid the bill at the cash register!
+,Customers pay for the sushi they've eaten at the register. The money then goes toward the restaurant.
+,You can recommend popular types of sushi as specials for an added boost to sales!
+,See the newly added <co=3366ff>Sushi Coins</co> in the upper right corner of the screen? We'll need those later.
+#01267,Amenity installed! It should provide some supplementary income whenever customers use it.
+,"Amenities can make a restaurant more popular, but remember that you have to pay for their upkeep."
+#01268,That's wonderful!
+,Now our selection of products should be even better. I look forward to serving you in the future.
+#01269,"Thanks for your business. Actually, there's something I'd like to discuss with you."
+,"You're one of our best customers, so I'd like to talk about improving our selection of products."
+,I was wondering if you could speak to Mr. Pumpkin about finding more suppliers for me.
+#01270,"Thanks for your business. Actually, there's something I want to discuss with you."
+,I could use your help in expanding our product selection even more.
+#01271,Newly hired chefs must be assigned to prep stations. Select a prep station to change the assigned chef.
+#01272,"I see. That's a good idea. We should enter too! Select ""<co=3366ff>Contest</co>"" from the ""<co=3366ff>Manage</co>"" menu to enter."
+#01273,"Boss! Now that the restaurant is on its feet, I think we should try developing some new dishes."
+,"The test kitchen equipment I ordered has arrived, so why don't we set it up?"
+#01274,"The test kitchen is ready. To develop new dishes, we need a chef. I've asked a friend to help us out."
+#01275,Hello! I'll do my best to make you the best sushi you've ever tasted!
+#01276,"We're now ready to develop a new dish. From the menu, select ""<co=3366ff>Dishes</co>"" and then ""<co=3366ff>Develop new dish</co>."""
+#01277,The dish with the highest overall quality will be selected and given a score.
+,"Try to develop dishes so that their <co=3366ff>flavor, texture</co>,<co=3366ff> aroma, </co>and<co=3366ff> color</co> scores are high across the board."
+#01278,The two staff members with the highest Service ability are selected and given scores.
+,"To get high scores, try to hire highly skilled staff or develop their skills through training."
+#01279,The two types of amenities with the highest quality are selected and given scores.
+,Use items to power amenities up or set decor items around them to make them more appealing.
+,Entertaining amenities like pinball machines tend to earn more points than vending machines.
+#01280,The <co=3366ff>two types</co> of seats with the highest quality are selected and given scores.
+,Use items to power seats up or set decor items around them to make them more appealing.
+,Seats also become more appealing when staff with good customer service skills are working nearby.
+#01281,"So this is <name>, huh? I'm not very hungry, so I'll just use the <co=3366ff><0></co> and go home."
+#01282,"I just came for the <co=0066cc><0></co>, but the sushi looks so good, I think I'll have a bite."
+,"I've been dieting since this morning, so I hope it tastes good!"
+#01283,It looks like our amenities have started attracting customers!
+,We should add some decor items to appeal to even more customers!
+#01284,"Making a seat more appealing upgrades it, making customers want to stay longer."
+,You can make seats more appealing by using items or placing plants and other decor items nearby.
+#01285,The season has ended! We sold a total of <0> plates for a total of <co=0066cc><1></co>!
+,The restaurant will now close and the season will change to summer.
+,"The ingredients in season will also change, so select new specials from the ""Manage"" menu."
+#01286,<name> has just gotten its first star! We expect great things from you.
+,Here is a special award just for you!
+#01287,Congratulations on your second star. We've been hearing your name now and then from our readers.
+,Here is your special award.
+#01288,"Third star at last, eh? You're already making quite a name for yourself, you know."
+,Here is your special award.
+#01289,"Four stars? Splendid. You've become a household name, it seems."
+,"I still remember back when you were just getting started... Sniff... Oh, here's your award, by the way."
+#01290,I can't believe it! Five stars! It takes an incredible amount of work to get this far!
+,Not a day goes by that I don't hear <name> mentioned as a place for the whole family to enjoy.
+,"On behalf of the Sushi Council, I offer my thanks. Please accept this token of our appreciation."
+#01291,"Good luck in the ongoing quest to be the best in the country! You can still keep playing, you know."
+,"This concludes all of the special awards, but you can still win cash prizes, so keep it up."
+,"Again, many thanks. Farewell!"
+#01292,Placing this statue has a mysterious effect that appears to boost a restaurant's popularity...
+,"You can even carry it over when you start a new game, so use it well!"
+#01293,"It looks like the base for our prototype is just about complete, so next let's move on to assessing the ingredients."
+#01294,"The base for our prototype is almost done, so next we head to the market to find good ingredients."
+,"The higher a chef's <co=3366ff>discernment</co> and the more <co=3366ff>Sushi Coins</co> spent, the better the ingredients you'll get!"
+,"Okay, then. Go to it, <0>."
+#01295,I got a new contact lens prescription just for this day! I'm sure I'll be able to pick out some great ingredients!
+#01296,We found great ingredients thanks to my keen eye. I'll work hard preparing them as well.
+#01297,This happens to everyone sooner or later... But I'll make up for it during the preparation stage!
+#01298,"You can rearrange amenities from the ""<co=0066cc>Build</co>"" menu."
+,You can even rotate an amenity in place. It can be pretty useful.
+#01299,"Well, unfortunately we didn't win, but I think we did quite well for a first attempt!"
+,"Judges each have their own personal preferences, so be sure to note their reactions to the other entries."
+#01300,"You need a chef to develop dishes. Try selecting ""Consult"" from the menu to hire new staff!"
+#01301,The specials are now set! Let's see how our customers react.
+#01302,This aquarium is a special item that greatly boosts the appeal of the surrounding area.
+,"Not only that, you can even carry it over the next time you play through the game."
+,Thanks a lot for taking part. I look forward to seeing you again!
+#01303,We can now have two test kitchens! This will allow <co=3366ff>multiple chefs</co> to develop new dishes together.
+,"That means keener discernment and better preparation. Two heads are better than one, so try it out!"
+,"Oh, I guess we'll need to build the test kitchen first."
+#01304,"Oh, and please take this!"
+#01305,Boss! You've got a phone call from Chimpan Z.
+#01306,"Hello? You're using it, aren't you? I can sense its aura."
+,I have a feeling that its power might even attract a Kairobot to your restaurant.
+,"One may show up if you try to recruit new staff, so by all means take advantage of it."
+,Goodbye. <CLICK>
+#01307,"Congratulations on ""completing"" the game! If you start a new game, the following will be carried over:"
+,20% of your fans.<br>30% of your ingredient expertise.<br>Some decor items.
+,"And of course, you are welcome to keep playing this game as well. Good luck!"
+#01308,You can view a detailed evaluation on the next screen. Select each item for details.
+#01309,"Boss, I need to discuss something with you."
+,That new <co=3366ff><0></co> takes <co=3366ff>so long to prepare</co> that it's really slowing us down...
+,You've got to do something!
+#01310,"I happened to overhear that. If you like, I could try making a <co=3366ff>prep manual</co> for your part-time staff."
+,I'll add this to your list of <co=3366ff>proposals</co>. Just let me know if you want me to make it.
+#01311,Hello there! Please accept my congratulations on winning the <0>!
+,"I just happened to be there at the time, and I was very impressed by your entry!"
+,Please take this with my compliments.
+#01312,"You got a hammer! You can use it to clear away trees outside, freeing up room for expansion."
+#01313,I see. Discernment certainly is a very important skill.
+,"By the way, they included free <co=3366ff>Sushi Coins</co> with that article. Try using them when assessing ingredients."
+#01314,We haven't entered any competitions lately and are getting some very...persistent requests.
+,"If you make something good, enter it in a contest via the ""<co=3366ff>Manage</co>"" menu. We might even win a prize!"
+#01315,The chef's prep skill isn't up to the job...but it can be improved with training!
+,"You can send chefs out for training from the ""<co=0066cc>Consult</co>"" menu's <co=0066cc>HR</co> section."
+#01316,Loading
+#01317,Loading failed
+#01318,=#01171
+#01319,Slot
+#01320,Resume
+#01321,Load Data
+#01322,No autosave data
+#01323,Empty
+#01324,Yr <0>
+#01325,Mn <0> Wk <1>
+#01326,Do not use: / | < > \
+#01327,Do not use: <0>
+#01328,Select data to load
+#01329,No save data found
+#01330,Sunny Springs
+#01331,About the Game
+#01332,Highest Clear Points
+#01333,Highest Capital by Year <0>
+#01334,None
+#01336,Hot Springs Story
+#01337,=#01334
+#01338,Inn Name
+#01339,Rename Amenity
+#01340,Lite Version
+#01341,Full Ver.
+#01342,Get the full version to upload your high scores!
+#01343,Well done. You've finished the Lite version.
+#01344,"In the full version of the game, you can create the ultimate hot springs inn and play for as long as you like."
+#01345,"After this you'll jump to our site, so check it out!"
+#01346,Thanks for playing!
+#01347,Money
+#01348,Hot Springs News
+#01349,You got <1> <co=000080><0></co>!
+#01350,Target(s) to aim for in this guidebook...
+#01351,Unknown. We'll be able to tell when we have more targets.
+#01353,<br>(Plus unknown targets.)
+#01354,Now in stock: <co=000080><0></co>
+#01355,New item: <co=000080><0></co>
+#01356,<co=000080><0></co> added.
+#01357,The latest Cruise Express<br>is now on sale.
+#01358,=#01155
+#01359,=#01156
+#01360,System
+#01361,=#01158
+#01362,=#01175
+#01363,Tutorial
+#01364,High Score
+#01365,=#01153
+#01366,Continue
+#01367,New Game
+#01368,=#01173
+#01369,Build
+#01370,Info
+#01371,Inn Info
+#01372,Earnings
+#01373,Clientele
+#01374,Buy
+#01375,Invest
+#01376,Items
+#01377,Title
+#01378,Guides
+#01379,Amenities
+#01380,Stayer List
+#01381,Compat.
+#01382,Pop.
+#01383,Scnry
+#01384,Price
+#01385,Use
+#01386,Profit
+#01387,Final capital: <0>
+#01388,Compatibility Guide: <0>
+#01389,Investments: <0>
+#01390,Clientele: <0> types
+#01391,Customers: <0>
+#01392,Subtotal: <0>
+#01393,Inn Popularity: <0>
+#01394,Trophies: <0>
+#01395,Max Bath: <0>
+#01396,Max Scenery: <0>
+#01397,Total: <0>
+#01398,<0>
+#01399,=#01398
+#01400,=#01398
+#01401,<0> effects
+#01402,OK
+#01403,Saving game...
+#01404,You got <co=0066cc>#1</co> in <co=0066cc><0></co>!
+#01405,Finally! 
+#01406,You got a fabulous trophy and a prize of <co=0066cc><0></co>!
+#01407,Message
+#01408,=#01407
+#01409,=#01398
+#01410,Next month!
+#01411,This month!
+#01412,Dialogue Window
+#01413,Event
+#01414,=#01175
+#01415,Priority
+#01416,Speed
+#01417,Music
+#01418,SFX
+#01419,Rotation
+#01420,Graphics
+#01421,Perf.
+#01422,Fast
+#01423,Normal
+#01424,Auto
+#01425,Lock
+#01426,Selecting “Perf.” prioritizes
+#01427,performance over graphics.
+#01428,Change the game's speed.
+#01429,(Unlocked after beating game.)
+#01430,Choose to automatically
+#01431,rotate the screen or not.
+#01432,Adjust the volume.
+#01434,"(C) Kairosoft Co., Ltd."
+#01435,=#01348
+#01436,Clear Points
+#01437,Page
+#01438,Next
+#01439,Env.
+#01440,=#01379
+#01441,Stores
+#01442,=#01164
+#01443,Amenity Info
+#01444,Monthly Upkeep
+#01445,Base
+#01446,Bns
+#01447,Total
+#01448,"Tap ""OK"" to use item."
+#01449,Bath Effects
+#01450,Base Effects
+#01451,Bonus
+#01452,Position well to boost pop./price
+#01453,M
+#01454,F
+#01455,Base Compat.
+#01456, and 
+#01457,Nothing effective nearby.
+#01458,Effects of nearby amenity
+#01459,Used by
+#01460,Satisfaction
+#01461,Month <0>
+#01462,Highest
+#01463,Items Used
+#01464,Times
+#01465,Items used on this amenity
+#01466,Enhance Amenity
+#01467,There was no effect...
+#01468,Pop. and price 
+#01469,Price 
+#01470,Popularity 
+#01471,went down...
+#01472,went slightly up.
+#01473,went up!
+#01474,went up a lot!
+#01475,New discovery!
+#01476,Plus!
+#01477,New Amenity
+#01478,New Target
+#01479,New Effect
+#01481,Now unlocked: <co=3c64c8><0></co>!
+#01482,New target: <co=3c64c8><0></co>!
+#01483,<0> people added to your clientele!
+#01484,New bath effect unlocked: <co=3c64c8><0></co>!
+#01485,Earnings (M)
+#01486,Earnings (Y)
+#01487,Income
+#01488,Expenses
+#01490,Trophies Won
+#01491,Max Scnry
+#01492,Stayers
+#01493,Upkeep
+#01494,<0>/month
+#01495,=#01381
+#01496,Highest scenery at inn
+#01497,Number of overnight stayers
+#01498,Total monthly maintenance fees.
+#01499,Bought
+#01500,Fees
+#01501,Built
+#01502,Investments
+#01503,Prize
+#01504,Other
+#01505,Customers
+#01506,=#01505
+#01507,Annual
+#01508,Monthly
+#01509,Guest Record
+#01510,Amount Spent
+#01511,In
+#01512,Day #<0>
+#01513,Showing the last <0> records
+#01514,Targets
+#01515,Advertise to these targets:
+#01516,=#01334
+#01517,Guest Info
+#01518,Day Guest
+#01519,Stayer
+#01520,=#01398
+#01521,=#01460
+#01522,Displaying guest info
+#01523,Amenities this guest used
+#01524,Change Targets
+#01525,=#01398
+#01526,More 　 = harder to please
+#01527,[None]
+#01528,Very Easy
+#01529,Easy
+#01530,Slightly Hard
+#01531,Hard
+#01532,Very Hard
+#01533,Super Hard
+#01534,Stays
+#01535,Buy Items
+#01536,=#01384
+#01537,Stock
+#01538,Out of stock
+#01539,Owned
+#01540,"Tap ""OK"" to buy."
+#01541,Investment List
+#01542,Select an investment
+#01543,No investments available
+#01544,=#01160
+#01545,In progress
+#01546,That investment is complete
+#01547,<0> complete
+#01548,<0>: <1> Issue
+#01549,Ranking
+#01551,Last
+#01552,Points
+#01555,=#01398
+#01556,"At <co=3c64c8><0></co>,"
+#01557,<co=3c64c8><0></co> gave <co=3c64c8><1> vote(s)</co>.
+#01558,Top 3 Voters
+#01559,has come to your inn.
+#01560,Item List
+#01561,=#01539
+#01562,"Tap ""OK"" to use."
+#01563,=#01560
+#01564,Times Used
+#01565,=#01398
+#01566,Investment Proposal
+#01567,=#01398
+#01568,Summary
+#01569,Length
+#01570,About <0>M
+#01571,About <0>M & <1>W
+#01572,About <0>W
+#01573,When
+#01574,<0>AM tomorrow
+#01575,Cost
+#01576,=#01375
+#01577,Detailed Expenses
+#01578,Name
+#01579,=#01398
+#01580,Guidebooks
+#01581,Copies
+#01582,Inns
+#01583,Rank
+#01584,<0>K
+#01585,=#01398
+#01586,=#01398
+#01587,=#01334
+#01588,Enter
+#01589,Currently entered
+#01590, Ceremony
+#01591,=#01379
+#01592,=#01386
+#01593,All
+#01594,All Amenities
+#01595, List 
+#01596,Uses/yr
+#01597,"Tap ""OK"" to jump to amenity."
+#01598,"Location: <0>, <1>"
+#01599,Guest List
+#01600,No.
+#01601,List
+#01602,Room
+#01603,Stay
+#01604,Day <0>
+#01605,"Tap ""OK"" to track customer."
+#01606,Scenery Ranking
+#01607,Top 10 Scenic Amenities
+#01608,Compatibility Guide
+#01609,=#01456
+#01610, or 
+#01611,Cannot make yet
+#01612,Not present at your inn
+#01613,<0> present at your inn
+#01614,You have no items.
+#01615,Not entered.
+#01616,Overwrite current progress?
+#01617,Delete current progress?
+#01618,Save complete.
+#01619,"Limit reached. Use ""Remove"" on like units before building."
+#01620,Insufficient funds.
+#01621,Scroll to select a location. Keep your finger on the item while scrolling to make fine adjustments.
+#01622,"Let's lay down some floorboards! Tap to set a starting point, then drag."
+#01623,No combinations with this amenity were found.
+#01624,Already set.
+#01625,You don't have enough money.
+#01626,Max of 3 investments reached.
+#01627,That's a pretty good score! Move the scroll bar down to see the details.
+#01628,You got a prize of <1> <co=000080><0></co>.
+#01629,You don't have that item.
+#01630,You have already invested.
+#01631,Invest <1> in<br><0>?
+#01632,Apply to <0>?
+#01633,You got <co=000080><0></co>.
+#01634,Voting results are this month.
+#01635,Voting results are next month.
+#01636,You cannot build there.
+#01637,That room is already reserved.
+#01638,That room is not connected to the entrance.
+#01639,A blue square shows where you can build.
+#01640,A red square shows what you can remove.
+#01641,Now following this guest. Tap again to see detailed info.
+#01642,Building <0>...
+#01643,Remove <0>
+#01644,Remove until where?
+#01645,Start <0> where?
+#01646,Place until where?
+#01647,Spr
+#01648,Sum
+#01649,Aut
+#01650,Wnt
+#01651,<co=008000><0></co> is complete.
+#01652,-<0> in monthly maintenance.
+#01653,Select a room.
+#01654,<co=c80000>Insufficient rooms</co>.
+#01655,=#01633
+#01656,You got <1> <co=000080><0></co>.
+#01657,+<co=000080><1></co> to <co=000080><0></co>'s scenery.
+#01658,Kairo News
+#01659,Visit us at Kairo Park.
+#01660,Check out Kairo Park Apps.
+#01661,Quit the game and head to
+#01662,Head to Kairo Park?
+#01663,Head to our App intro page?
+#01664,=#01402
+#01665,Quit the game?
+#01666,Stay up-to-date with the
+#01667,latest Kairo Park info!
+#01668,Build and manage the
+#01669,ultimate hot springs inn.
+#01670,Develop a million-selling
+#01671,game in this simulation.
+#01672,Take your game company
+#01673,to the top of the industry.
+#01674,Currency
+#01675,\
+#01676,$
+#01677,Switch currency to yen/dollars.
+#01678,Note that ￥100 = ＄1.
+#01679,Enter Kairo Park
+#01680,Advertising ↑
+#01681,Items ↑
+#01682,Stayers ↑
+#01683,Money ↑
+#01684,Amenities ↑
+#01685,Votes ↑
+#01686,=#01602
+#01687,Both:
+#01688,<0>:
+#01689,Flower Garden
+#01690,Fashion Show
+#01691,=#01316
+#01692,Please enter a name.
+#01693,Please enter a <0>.
+#01694,Enter up to <0> characters.
+#01695,Yr <0> Mn <1> Wk <2>
+#01696,Load failed.
+#01697,Could not read data.
+#01698,Make sure to allow connection to network and check your signal strength.
+#01699,Make sure to allow connection to network and<br>check your signal quality.
+#01700,Authentication failed.
+#01701,A server error has occurred.
+#01702,A data error has occurred.<br>Please re-install the application.
+#01703,An error has occurred.<br>Please restart the application.
+#01704,Could not start game.
+#01705,Auto <0>
+#01706,Save <0>
+#01707,Send all data
+#01708,Show error log
+#01709,Send all data?
+#01710,Send autosave data <0>?
+#01711,Send save data <0>?
+#01712,Data sent.<br>Thanks for your cooperation.<br>We hope you'll stick with us!
+#01713,An error has occurred.<br>Retry?
+#01714,Send Save Data
+#01715,Choose data to send.
+#01716,Sending data
+#01717,Do not turn the device off.
+#01718,=#01407
+#01719,Error
+#01720,=#01340
+#01721,Hot Springs Story Lite
+#01722,An error has occurred.
+#01723,=#01434
+#01724,The Sushi Spinnery
+#01725,Sunny Sushi
+#01726,Restaurant Name
+#01727,Sushi Coins: <0>
+#01728,Contests won: <0>
+#01729,Ranking: <0> pts
+#01730,Ingredients: <0>
+#01731,Best quality: <0>
+#01732,Best taste: <0>
+#01733,N/A
+#01734,Dishes
+#01735,Restaurant
+#01736,Develop
+#01737,Contests
+#01738,Specials
+#01739,=#01734
+#01740,Consult
+#01741,Upgrade
+#01742,Staff
+#01743,Ingred.
+#01744,=#01505
+#01745,=#01164
+#01746,=#01165
+#01747,Manage
+#01748,HR
+#01749,Food
+#01750,PR
+#01751,Special
+#01752,: <0>
+#01753,Landscape mode available
+#01754,in the full version!
+#01755,Save failed.
+#01756,Place <0> starting where?
+#01757,Conveyor belts cannot be moved.
+#01758,Move which item?
+#01759,Move to where?
+#01760,Rotate in place.
+#01761,"Tap ""OK"" to build."
+#01762,"Move ""<0>"""
+#01763,Move where?
+#01764,You can't build there.
+#01765,Not facing the road.
+#01766,Overlaps with an amenity.
+#01767,Overlaps with a wall.
+#01768,Move
+#01769,Decor
+#01770,Hammers
+#01771,=#01398
+#01772,You have no <0>.
+#01773,No stock available.\nRemove an existing <0> first.
+#01774,Seat Info
+#01775,Cannot reach entrance.
+#01776,Creating new sushi.
+#01777,Develop New Dish
+#01778,Compatibility boosts quality & price.
+#01779,This amenity boosts appetite.
+#01780,This amenity gives Sushi Coins.
+#01781,Chef
+#01782,=#00170
+#01783,No chef selected
+#01784,Select chef
+#01785,Change chef
+#01786,Use Part-Timer
+#01787,Now training.
+#01788,Business is over for the day.
+#01789,Developing new sushi.
+#01790,Tired and taking a break.
+#01791,Waiting due to full conveyor belt.
+#01792,Prepping <0>.
+#01793,"Hmm, now what?"
+#01794,Energy
+#01795,Prep
+#01796,Discern
+#01797,Service
+#01798,Kid
+#01799,Youth
+#01800,Adult
+#01801,Elderly
+#01802,Boy
+#01803,Girl
+#01804,Young Man
+#01805,Young Woman
+#01806,Man
+#01807,Woman
+#01808,Elderly Man
+#01809,Elderly Woman
+#01810,But I have a 30-year mortgage loan...
+#01811,You think you can just get rid of me?
+#01812,There's still so much I can do.
+#01813,I was just thinking about retiring...
+#01814,But I still have so much to do!
+#01815,You should reconsider.
+#01816,But I'm practically broke!
+#01817,I'll go find another job then!
+#01818,I was just hitting my stride!
+#01819,??????????????
+#01820,??????????????????????
+#01821,?????????????????????
+#01822,???????
+#01823,??????
+#01824,??????
+#01825,???????????
+#01826,?????
+#01827,??
+#01828,??
+#01829,??????
+#01830,?????
+#01831,??
+#01832,?
+#01833,?
+#01834,?
+#01835,?
+#01836,=#01454
+#01837,=#01748
+#01838,=#01747
+#01839,=#01749
+#01840,=#01750
+#01841,=#01751
+#01842,"""<co=008000><0></co>"" ?????????????????"
+#01843,"""<co=008000><0></co>"" ???????????????????????"
+#01844,<co=008000>Not enough seats available.</co>
+#01845,Bonus prize: <co=000080><0></co>
+#01846,Bonus prize: <0> <co=000080>Sushi Coins</co>
+#01847,Participation prize: <co=000080><0></co>
+#01848,Participation prize: <0> <co=000080>Sushi Coins</co>
+#01849,Participation prize: <1> <co=000080><0>(s)</co>
+#01850,????????????????????? <0> ???????
+#01851,???????????????????????????
+#01852,<co=000080><0></co> ??????????????
+#01853,????????????????????
+#01854,????????
+#01855,Fandom
+#01856,???????
+#01857,??????: 
+#01858,<0> ???
+#01859,???????????????
+#01860,?????????????????
+#01861,??????????????????????????
+#01862,????????????????????
+#01863,????????????????? <0> ?????
+#01864,??????????????????????? <0>.
+#01865,?????????????????????? <0> ?????
+#01866,??????????? ?????????????????????
+#01867,?????????????????????????????
+#01868,????????
+#01869,??????????
+#01870,????? <0> ?????
+#01871,"??????????????? <co=60,100,200><0></co>\n????????????????????????????????????????????????"
+#01872,??????? ???????????????????????????????????????????
+#01873,"??????? <0>: <co=60,100,200><1></co>.\n?????????????? <co=60,100,200><2></co>."
+#01874,"??????????????? <co=60,100,200><0> ?????</co>."
+#01875,???????????????
+#01876,??????????????????
+#01877,???????????????????
+#01878,??????????
+#01879,\n???????????????? ??????????????????????????
+#01880,?????????????????????????????.\n?????????.....
+#01881,"??????? <0>: <co=60,100,200><1></co>!\n???????????????!"
+#01882,"?????????????????? <co=60,100,200><0></co> ????????????????????"
+#01883,"?????????????????? <co=60,100,200><0></co>."
+#01884,\n???????????????????
+#01885,\n?????????????????????
+#01886,????????? <0>. ??????!
+#01887,????????????????????????????????? ????????????????????????
+#01888,??????????????????....??????????????
+#01889,???????????????????????????????????
+#01890,??????? ??????????????????????????
+#01891,???????? ????????????????\n???????? ??????
+#01892,???????????????????... ?????????????????????????????????????????????
+#01893,??????????....??????????????
+#01894,????????! ?????????????????!
+#01895,??????????????! ????????!\n???????????????
+#01896,?????????
+#01897,?????????????????
+#01898,Sumeshi
+#01899,=#00323
+#01900,Kan
+#01901,=#00327
+#01902,Mk
+#01903,????????.\n?????????????????? Lite ??????.
+#01904,"???????????????, ????????????????????????????????????, ?????????????????????????????????????????"
+#01905,=#01749
+#01906,=#01742
+#01907,????????
+#01908,????????????
+#01909,?????????
+#01910,??????
+#01911,???????????
+#01912,=#01911
+#01913,=#01855
+#01914,???????
+#01915,???
+#01916,=#01384
+#01917,<0> ?????
+#01918,???
+#01919,??????
+#01920,??????? <0>.
+#01921,?????????????... <0>.
+#01922,???????????
+#01923,?????????????????????????????
+#01924,???...?????????????????
+#01925,??????????????????????????????
+#01926,??????????????! ??....???.....??????????????
+#01927,??????!
+#01928,??????????????????
+#01929,?????????????
+#01930,???????????
+#01931,????????????????????????????...
+#01932,???????????????<0>.
+#01933,????????????????
+#01934,???.......????????
+#01935,???????????????
+#01936,?????????????????????????
+#01937,???????....??????????????
+#01938,?????????????????
+#01939,Chefs
+#01940,<0> chefs
+#01941,=#01795
+#01942,=#01171
+#01943,???????????????
+#01944,"Max ingredients: <co=60,100,200><0></co>"
+#01945,"Max ingredients: <co=60,100,200><0></co> / Max toppings: <co=60,100,200><1></co>"
+#01946,???????????? (????? <0>)
+#01947,????????????
+#01948,=#01447
+#01949,<0> / <1> ??
+#01950,????????????
+#01951,??????????????????????????? ??????????????????????????????????????????????
+#01952,???????????????????????????????????????????????????????????????????
+#01953,?????????????
+#01954,?????????????
+#01955,??????????????
+#01956,???????????????????????
+#01957,??????????
+#01958,=#01954
+#01959,=#01955
+#01960,????????
+#01961,???
+#01962,[?? <0>]
+#01963,?
+#01964,???????????
+#01965,??????
+#01966,=#01802
+#01967,=#01803
+#01968,=#01806
+#01969,=#01807
+#01970,??????
+#01971,???????
+#01972,"<co=0,0,255><0></co> ??????????????? ?"
+#01973,"?????????????? <co=255,0,0><1></co> ????? <co=255,0,0><0></co>? ??????? ???????"
+#01974,"???? <co=255,0,0><1></co> ?????????????? <co=255,0,0><0></co>??????"
+#01975,"???? <co=0,0,255><1></co> ???????????? <co=0,0,255><0></co>????????? ?"
+#01976,"<co=0,0,255><0></co> ??? <co=0,0,255><1></co> ??????????????????????????????"
+#01977,"<co=0,0,255><0></co> ?????? <co=0,0,255><1></co> ????????????"
+#01978,"???????, ???? <co=0,0,255><0></co> ????????????????? <co=0,0,255><1></co>."
+#01979,"???? <co=0,0,255><1></co> ????????????????????? <co=0,0,255><0></co>????????"
+#01980,"Wow. ???? <co=0,0,255><0></co> ??? <co=0,0,255><1></co> ?????????????????????????????????"
+#01981,"????... ?????? <co=0,0,255><0></co> ?????? <co=0,0,255><1></co>???... ????????!"
+#01982,"<co=0,0,255><0></co> ??? <co=0,0,255><1></co> ????????????????????????????????????????"
+#01983,?????? <co=0000ff>??????</co> ????????????
+#01984,??????????????? <co=0000ff>????????????</co>!
+#01985,????????????????? <co=0000ff>?????????????</co>!
+#01986,??? <co=0000ff>color</co> ??????????
+#01987,?????????????????????????<co=0000ff><0></co>.
+#01988,????????? <co=0000ff><0></co> ?????????????
+#01989,????????????? <0>
+#01990,??? Sushi Coins ??
+#01991,??????????
+#01992,????????????.....
+#01993,<0> ?????
+#01994,????????
+#01995,???????????????????????????? ? ???
+#01996,???????????????????
+#01997,"????????????, ???????????"
+#01998,???????????????????????
+#01999,?????????????????????????????
+#02000,????????????????????????????
+#02001,???????????????????????????????????????????
+#02002,??????????????????????
+#02003,????????????????????????? ????????????
+#02004,????????.....??????????
+#02005,?????????????????????????
+#02006,?????????????.....
+#02007,????????????????
+#02008,????????????
+#02009,?????????????????????????????
+#02010,????????????????????
+#02011,????????????????????????
+#02012,????????????????????????????????????????????!
+#02013,????????????????????????!
+#02014,?????????????? <0>!
+#02015,The Daily Haddock
+#02016,?????????????
+#02017,?????
+#02018,?????????
+#02019,"??? ""OK"" ????????????"
+#02020,???????????
+#02021,??????????????
+#02022,?????????????????????????
+#02023,=#01947
+#02024,?????????????
+#02025,?????????????????
+#02026,"?????????????? (<0>, <1>) "
+#02027,??????? Sushi Coins: 
+#02029,???????????????
+#02030,=#01789
+#02031,???????????????????????????????????
+#02032,"????????????? <0> (<1>, <2>)."
+#02033,????
+#02034,=#01174
+#02035,???????
+#02036,??????????????????????
+#02037,????????
+#02038,??????????????????????? <0> ??
+#02039,?????????????????????\n<0>?
+#02040,<0>\n???????????????
+#02041,<0>\n??????????????????????
+#02042,????? Sushu Coins ?????
+#02043,??? <0> Sushi Coins\n????????????????
+#02044,???????????????????
+#02045,??????????????
+#02046,?????????????
+#02047,?????????????????????
+#02048,?????????????????
+#02049,??????????????
+#02050,??????????
+#02051,??????????????
+#02052,??????????
+#02053,???????????????
+#02054,=#01960
+#02055,<0> ?????
+#02056,?????????????
+#02057,"????????? <co=0,0,255><0></co>."
+#02058,=#01158
+#02059,=#01173
+#02060,??????????????<0>
+#02061,=#01588
+#02062,=#01438
+#02063,=#01961
+#02064,"<co=0,0,255><0></co> ???????? ???\n<co=0,0,255><1></co> ?????????????"
+#02065,"????????? ""<co=0,0,255><0></co>"" \n?????????"
+#02066,"????????? ""<co=0,0,255><0></co>"" \n??????????"
+#02067,???????????????
+#02068,???????????????
+#02069,"?? <co=60,100,200><0></co>?"
+#02070,??????? <0>?
+#02071,<0> ??????
+#02072,??? <0> ?????????????
+#02073,??????????????????????????????
+#02074,?????????????????????????????????????
+#02075,?????????????????????????????????????
+#02076,????????????????????????
+#02077,????????????
+#02078,????????????
+#02079,??????????????????:\n<co=3c64c8><0></co>
+#02080,???????????????????:\n<co=3c64c8><0></co>
+#02081,??????????????????:\n<co=3c64c8><0></co>
+#02082,??????????????????\n<co=3c64c8><0></co>!
+#02083,?????????????????????\n<co=3c64c8><0></co>!
+#02084,<co=3c64c8><0></co>\n???????????????????????????!
+#02085,???????????????
+#02086,=#01549
+#02087,??????????????
+#02088,??????????????
+#02089,????????????????
+#02090,?????????????????????????
+#02091,?????????????????????????
+#02092,??????
+#02093,????????????????
+#02094,=#01734
+#02095,????????????
+#02096,=#01961
+#02097,=#01583
+#02098,[?????????????????]
+#02099,[?????????????]
+#02100,"??? ""OK"" ??????????"
+#02101,=#00001
+#02102,?????????????
+#02103,????????
+#02104,=#01385
+#02105,???????????
+#02106,???????
+#02107,=#02103
+#02108,?????????
+#02109,???????????
+#02110,<0>: ?????
+#02111,<0>: ????????????
+#02112,<0>: ??????????
+#02113,??????
+#02114,?????????
+#02115,<0> ?????????
+#02116,?????????
+#02117,<0> ???????????.\n
+#02118,??????????????????????????????.\n
+#02119,?????????????????????: <0>
+#02120,"????????????????????: <0> ?????, <1> ???????"
+#02121,????????????????????: <0>
+#02122,???????????????????????: <0>
+#02123,?????????????????????? ? ??????
+#02124,"??? ""OK"" ?????????????????"
+#02125,"??? ""OK"" ??????????."
+#02126,"You can implement <co=0,0,255><0></co> more."
+#02127,??????????????????????????????
+#02128,?????????????????????? ? ???????????
+#02129,=#02042
+#02130,"?????????? ""<0>""?"
+#02131,????????
+#02132,????????? <0> → <1>
+#02133,?????? Lv. <0> ???????????????.
+#02134,?????????????????
+#02135,"?????????????????: <co=30,30,30><0></co>"
+#02136,=#01965
+#02137,??????????????????!
+#02138,???????????????????????!
+#02139,=#01373
+#02140,=#01855
+#02141,????
+#02142,<0> +
+#02143,??
+#02144,=#01963
+#02145,???????????
+#02146,?????????????????????????????
+#02147,???????????????
+#02148,=#01456
+#02149,?????????...
+#02150,???????????????????
+#02151,???????????!
+#02152,??????!
+#02153,???????????
+#02154,?????????????????? 10 ?????????
+#02155,??????????? 4 ?????????
+#02156,???????????
+#02157,???????????????? <0> ?????????.
+#02158,???????????????????????
+#02159,????????????????? ? ? ??????
+#02160,?????????????????????????????????????????
+#02161,??????????????????
+#02162,???????????????????????????????????????????????
+#02163,=#01620
+#02164,1 ???
+#02165,2 ???
+#02166,3 ???
+#02167,4 ???
+#02168,5 ???
+#02169,?????????????????????
+#02170,?????? #<0>
+#02171,<0> ??????
+#02172,<0> ??????????
+#02173,???????????
+#02174,??????????????????
+#02175,??????????????? <0>!
+#02176,? <0> ? <1>
+#02177,????????????????????? ??????????????????????????????????????????????????????????????????
+#02178,??????????????????????????????????????????????????????????????????
+#02179,???????????????
+#02180,?????
+#02181,???????????.......
+#02182,???.......
+#02183,?????
+#02184,???????????????
+#02185,???????????!
+#02186,?????????
+#02187,?????
+#02188,?????
+#02189,????.....
+#02190,????????????
+#02191,????????????
+#02192,?????????
+#02193,??????????????
+#02194,??????????????
+#02195,???????
+#02196,?????????????????????????????
+#02197,?????????????
+#02198,????
+#02199,?????????
+#02200,???????
+#02201,=#02182
+#02202,???!
+#02203,????......
+#02204,?????????????????
+#02205,????????????????
+#02206,???.....
+#02207,????????
+#02208,????????
+#02209,???????
+#02210,=#01741
+#02211,????????????
+#02212,????????
+#02213,　???
+#02214,????????????......
+#02215,??????????
+#02216,???????????
+#02217,???????????!
+#02218,?????????!
+#02219,??????!
+#02220,???!
+#02221,?????????????!
+#02222,????????
+#02223,?????????!
+#02224,???????!
+#02225,??????????!
+#02226,????????????
+#02227,??????????????
+#02228,??????????
+#02229,??????????....
+#02230,????????????
+#02231,???????????
+#02232,?????????????????????????????????????????????????? <co=3366ff>??????</co>
+#02233,???????????????????????????????
+#02234,"?????????????????????????????????????????????????! ??????????????????? \""????\"" > \""????????\"""
+#02235,??????????????????????????????????? ???????????
+#02236,??????????????????????????????????????????????? ??????????????????? ?????????????? ?????????????????????????????????????????????????????????????????
+#02237,=#01407
+#02238,=#01407
+#02239,?????????
+#02240,=#01402
+#02241,????????????
+#02242,??????
+#02243,??? ???. ?????????????????
+#02244,?????????????????
+#02245,=#01535
+#02246,????????????????????? (??????)
+#02247,?????????????????????????????
+#02248,????????????????????????????????????
+#02249,????????????
+#02250,?????????????????????????????
+#02251,?????????
+#02253,????????????
+#02254,????????????
+#02255,????????????????
+#02256,"????...??? ??? <co=60,100,200>???????????????</co> ???????????????."
+#02257,??????????????????????? ????????????????????????????????????????????????????
+#02258,?????????????????????????????????????????????
+#02259,??????????????!
+#02260,???????????????? ???????????????????????????? ???????????????
+#02261,??????????????? ??????????????????????????? ???????
+#02262,????
+#02263,=#02241
+#02264,"???, ???????????????????? <co=60,100,200>??????</co> ????, ???????????????????????????????????? ? ?????."
+#02265,??????????????? <0> ??????????.
+#02266,"????, ??????????????????????????"
+#02267,"?????????????? ? ???????????????????? <co=60,100,200>actual, ????????????</co>."
+#02268,"????????????????? <co=60,100,200>?????????</co> ????????????????"
+#02269,?????????????????????? ??????????????
+#02270,???????????????
+#02271,=#01398
+#02272,????????: <0> ??. <1> ?.
+#02273,??????????????
+#02274,????????????????????????????????<br>??. ????????????????<br>?????????????????????<br>????????????????. ?????? ID ????????????<br>??????????????????????.
+#02275,????????
+#02276,????????
+#02277,???????????
+#02278,????????????????????????????
+#02279,???????????????????????????????????????????????
+#02280,ID ?????????
+#02281,ID ?????????
+#02282,???? ID ?????????
+#02283,"?????????! ??????????????????????????? <co=60,100,200>??????????</co>!"
+#02284,???????????????????????????? ? ???????????????????????????????????????
+#02285,"????????????, <co=255,0,0>?????????</co> ?????? ? ??????????????????????????????."
+#02286,?????????????
+#02287,????????????????
+#02288,????????
+#02289,???????????????????????
+#02290,=#01402
+#02291,???????????
+#02292,<0>  <1> ??. <2> ?.
+#02293,????????????????
+#02294,???????:
+#02295,<0>  <1> ??. <2> ?.
+#02296,????????????????????.
+#02297,<0> ???? ?(s)
+#02298,???????????
+#02299,?????????
+#02300,???? ID
+#02301,ID ?????? (????????????)
+#02302,???????????
+#02303,?????????
+#02304,?????
+#02305,=#01407
+#02306,???????????????????????
+#02307,????
+#02308,=#01169
+#02309,??????????????????????????
+#02310,????????????????
+#02311,=#01407
+#02312,???
+#02313,????????? ??????????????
+#02314,??????
+#02315,??????
+#02316,???????????
+#02317,??????????
+#02318,<co=0070FF><0></co><br>added.
+#02319,???????????????????
+#02320,??????????????????????????????
+#02321,=#01173
+#02322,=#01154
+#02323,??????<br><0>?
+#02324,???????????????
+#02325,?????????????? (??? ?  <0> ????)
+#02326,"??????????????????????????? <co=254,233,1><0></co> hr <co=254,233,1><1></co> ????."
+#02327,(??????)
+#02328,????
+#02329,??????????
+#02330,??????????????
+#02331,??????<br><co=0070FF><0> ????</co>.
+#02332,=#02330
+#02333,"??????????: <co=254,233,1><0></co>"
+#02334,"???????????<br><co=0,128,255><0></co>!"
+#02335,????????????????. ?????????????????????????????????????????.
+#02336,??????????????????? (??????????????????????????????).
+#02337,????????
+#02338,???????????????
+#02339,?????????????\n???????????????????????.
+#02340,?????????????????
+#02341,????????
+#02342,????????????????
+#02343,????????????????!
+#02344,????????????????????? 0 ?????.
+#02345,????????????????????? <0>.
+#02346,??????????????...
+#02347,=#02177
+#02348,=#02178
+#02349,=#01753
+#02350,??????????????!
+#02351,=#01327
+#02352,=#01693
+#02353,=#01316
+#02354,=#01317
+#02355,=#01171
+#02356,=#01319
+#02357,=#01320
+#02358,=#01321
+#02359,=#01322
+#02360,=#01323
+#02361,=#01324
+#02362,=#01325
+#02363,???????: / | < > \\
+#02364,=#01328
+#02365,=#01329
+#02366,=#01331
+#02367,?????????????
+#02368,=#01334
+#02369,=#01334
+#02370,=#01341
+#02371,?????????????????????????????????!
+#02372,=#01343
+#02373,=#01345
+#02374,=#01346
+#02375,?????? <0><br>?????????.
+#02376,=#01155
+#02377,=#01156
+#02378,=#01360
+#02379,=#01158
+#02380,=#01175
+#02381,=#02299
+#02382,=#01364
+#02383,=#01153
+#02384,=#01366
+#02385,=#01367
+#02386,=#01369
+#02387,=#01370
+#02388,=#01376
+#02389,=#01377
+#02390,=#01392
+#02391,=#01397
+#02392,=#01398
+#02393,=#01398
+#02394,=#01398
+#02395,=#01403
+#02396,?????????????
+#02397,=#01413
+#02398,=#01175
+#02399,=#01415
+#02400,=#01416
+#02401,=#01417
+#02402,=#01418
+#02403,=#01419
+#02404,=#01420
+#02405,=#01421
+#02406,=#01422
+#02407,=#01423
+#02408,=#01424
+#02409,=#01425
+#02410,=#01426
+#02411,=#01427
+#02412,=#01428
+#02413,=#01429
+#02414,=#01430
+#02415,=#01431
+#02416,=#01432
+#02418,=#01434
+#02419,=#01434
+#02420,=#01436
+#02421,=#01437
+#02422,=#01438
+#02423,??????????
+#02424,=#01445
+#02425,=#01446
+#02426,=#01447
+#02427,=#01451
+#02428,???
+#02429,????
+#02430,=#01461
+#02431,=#02423
+#02432,=#01494
+#02433,=#01334
+#02434,=#01384
+#02435,=#01537
+#02436,=#01539
+#02437,=#01160
+#02438,=#01545
+#02439,=#01547
+#02440,=#01548
+#02441,=#01560
+#02442,=#01539
+#02443,=#01560
+#02444,=#01564
+#02445,=#01398
+#02446,=#01398
+#02447,=#01568
+#02448,=#01569
+#02449,=#01575
+#02450,=#01578
+#02451,=#01583
+#02452,??????????????????
+#02453,=#01593
+#02454,?????????????????????????
+#02455,=#01601
+#02456,=#01616
+#02457,=#01617
+#02458,=#01618
+#02459,??????????????????????? ???????????????????????????????????????????????????????????????????? ?????????????
+#02460,=#01624
+#02461,=#01625
+#02462,=#01633
+#02463,=#01641
+#02464,=#01642
+#02465,=#01643
+#02466,=#01644
+#02467,=#01645
+#02468,=#01646
+#02469,=#01647
+#02470,=#01648
+#02471,=#01649
+#02472,=#01650
+#02473,=#01651
+#02474,=#01652
+#02475,=#01658
+#02476,=#01659
+#02477,=#01660
+#02478,=#01661
+#02479,=#01662
+#02480,=#01663
+#02481,=#01402
+#02482,=#01665
+#02483,=#01666
+#02484,=#01667
+#02485,=#01674
+#02486,\\
+#02487,=#01676
+#02488,=#01677
+#02489,=#01678
+#02490,=#01679
+#02491,=#01316
+#02492,=#01692
+#02493,=#01694
+#02494,=#01695
+#02495,=#01696
+#02496,=#01697
+#02497,=#01698
+#02498,=#01699
+#02499,=#01700
+#02500,=#01701
+#02501,=#01702
+#02502,=#01703
+#02503,=#01704
+#02504,=#01705
+#02505,=#01706
+#02506,=#01707
+#02507,=#01708
+#02508,=#01709
+#02509,????????????????????? <0>?
+#02510,???????????? <0>?
+#02511,=#01712
+#02512,=#01713
+#02513,=#01714
+#02514,=#01715
+#02515,=#01716
+#02516,=#01717
+#02517,=#01719
+#02518,=#01340
+#02519,=#01722
+#02520,=#01402
+#02521,"????????????????????? ??????? \""????????????\"" ???????????????????????"
+#02522,?????????.....
+#02523,???????: ???????????????????????????????????????????????<br>??????????????????
+#02524,???????????????????????
+#02525,????????????????
+#02526,"??????? TapJoy\n- ??? \""???????????\"" ????????????????\n* ????????????? > ??????????????? > ????? > ???????????????????"
+#02527,??????????????
+#02528,=#01152
+#02529,??????!!
+#02530,=#01154
+#02531,=#01157
+#02532,=#01159
+#02533,??????
+#02534,=#01423
+#02535,????
+#02536,=#02299
+#02537,??????
+#02538,??????
+#02539,=#01161
+#02540,??????????????
+#02541,=#01171
+#02542,?????
+#02543,=#01381
+#02544,=#01170
+#02545,=#01578
+#02546,??????
+#02547,??????
+#02548,=#01162
+#02549,=#01163
+#02550,????
+#02551,???????????
+#02552,=#01164
+#02553,=#01423
+#02554,=#01169
+#02555,???
+#02556,=#01165
+#02557,=#01166
+#02558,=#01167
+#02559,=#01170
+#02560,=#01169
+#02561,????
+#02562,=#01370
+#02563,=#01424
+#02564,Toggle
+#02565,=#01164
+#02566,????
+#02567,=#02533
+#02568,?????
+#02569,?????
+#02570,??????
+#02571,???????
+#02572,????????
+#02573,?????????
+#02574,=#01158
+#02575,=#01159
+#02576,?????????
+#02577,???????
+#02578,????
+#02579,????????
+#02580,???????????
+#02581,??????????
+#02582,?????????
+#02583,??????
+#02584,??????
+#02585,??????
+#02586,??????
+#02587,???
+#02588,???
+#02589,????????
+#02590,GET !!
+#02591,?????
+#02592,????????
+#02593,????????
+#02594,??????????
+#02595,=#02143
+#02596,??????
+#02597,???????
+#02598,????
+#02599,????
+#02600,=#01914
+#02601,???????
+#02602,?????????
+#02603,??????
+#02604,?????
+#02605,??????
+#02606,??????
+#02607,????
+#02608,???
+#02609,LVUP
+#02610,???
+#02611,?????????????
+#02612,????
+#02613,ATM
+#02614,??????
+#02615,=#02614
+#02616,=#02614
+#02617,=#02614
+#02618,??????????????????????
+#02619,"??????????, ????????????????."
+#02620,"??????????, ?????????????????."
+#02621,??????????\n?????????????????.
+#02622,??????????????....
+#02623,???????
+#02624,???????????? <0><br> ??????????????????????????????? Kairo ?????? <br> ????????????????????????????????????
+#02625,??????????????<br>KairoLand's 
+#02626,?????
+#02627,?????????!<br>????????????????????????.
+#02628,??????
+#02629,?????? + ??????????????????????????<br>?????????????????????????????????????<br>?????????? ?????? A/Y ????<br>????????????????????????????<br>?????? + ??????????????????????????
+#02630,?????????????????
+#02631,?????? A ????????????????????????????????? ????????????????????????????????
+,????????????????????????????????? ??????????????????????????????????????????????????????????????????
